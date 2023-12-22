@@ -1,0 +1,17 @@
+version: "3"
+services:
+  wss:
+    build: .
+    depends_on:
+      - mongodb
+    restart: always
+    environment:
+      - MONGODB_URI=mongodb://mongodb:27017
+      - BOT_ID=
+      - BOT_TOKEN=
+      - GEMINI_PRO_KEY=
+  mongodb:
+    image: mongo
+    restart: always
+    volumes:
+      - ./mongo:/data/db

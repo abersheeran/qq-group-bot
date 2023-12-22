@@ -1,0 +1,69 @@
+from loguru import logger
+
+from ..core import BotClient
+
+__all__ = ("reply_group_message",)
+
+
+async def _reply_group_message(
+    *,
+    group_openid: str,
+    message_id: str,
+    content: str,
+    image_url: str | None = None,
+) -> bool | None:
+    bot_client = BotClient.get()
+
+    if image_url:
+        resp = await bot_client.post(
+            f"/v2/groups/{group_openid}/files",
+            json={"file_type": 1, "url": image_url, "srv_send_msg": False},
+        )
+        upload_res = resp.json()
+        file_info = upload_res["file_info"]
+
+        request_json = {
+            "msg_type": 7,
+            "content": content,
+            "msg_id": message_id,
+            "media": {"file_info": file_info},
+        }
+    else:
+        request_json = {
+            "msg_type": 0,
+            "content": content,
+            "msg_id": message_id,
+        }
+
+    logger.debug(f"Sending message to group {group_openid}: {request_json}")
+    resp = await bot_client.post(
+        f"/v2/groups/{group_openid}/messages", json=request_json
+    )
+    if not resp.is_success:
+        logger.warning(f"Failed to send message: {resp.text}")
+    else:
+        logger.debug(f"Sent message response: {resp.json()}")
+        return resp.json().get("msg") == "success"
+
+
+async def reply_group_message(
+    *,
+    group_openid: str,
+    message_id: str,
+    content: str,
+    image_url: str | None = None,
+) -> None:
+    if (
+        await _reply_group_message(
+            group_openid=group_openid,
+            message_id=message_id,
+            content=content,
+            image_url=image_url,
+        )
+        is False
+    ):
+        await _reply_group_message(
+            group_openid=group_openid,
+            message_id=message_id,
+            content="腾讯不让我发这条消息, 我们换个话题吧。",
+        )
