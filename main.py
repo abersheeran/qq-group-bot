@@ -160,7 +160,7 @@ class Commands(CommandMatcher):
         for attachment in event.get("d", {}).get("attachments", []):
             content_type = attachment["content_type"]
             url = attachment["url"]
-            if content_type.split("/", 1)[0] == "image":
+            if is_supported_mime_type(content_type):
                 image_base64 = await download_image(url)
                 parts.append(
                     {
