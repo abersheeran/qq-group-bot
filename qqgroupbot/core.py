@@ -122,7 +122,7 @@ async def wss_connect(
         fetch_event_task = asyncio.create_task(fetch_event())
 
         try:
-            while not stop:
+            while not stop or not queue.empty():
                 try:
                     yield queue.get_nowait()
                 except asyncio.QueueEmpty:
