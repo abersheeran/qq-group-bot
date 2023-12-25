@@ -1,0 +1,3266 @@
+[
+  {
+    "photo": null,
+    "name": "闲云",
+    "rarity": "5星",
+    "weapon": "",
+    "element": "风",
+    "max_health_points": "",
+    "max_attack": "",
+    "max_defense": "",
+    "breakout_increase": "",
+    "materials_needed_for_breakthrough": [],
+    "materials_needed_for_talent": []
+  },
+  {
+    "photo": null,
+    "name": "嘉明",
+    "rarity": "4星",
+    "weapon": "",
+    "element": "火",
+    "max_health_points": "",
+    "max_attack": "",
+    "max_defense": "",
+    "breakout_increase": "",
+    "materials_needed_for_breakthrough": [],
+    "materials_needed_for_talent": []
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/4/46/3bbaccl7ziumc1f9vk1hoo1vpttkd2m.png/60px-%E5%A8%9C%E7%BB%B4%E5%A8%85%E5%A4%B4%E5%83%8F.png",
+    "name": "娜维娅",
+    "rarity": "5星",
+    "weapon": "双手剑",
+    "element": "岩",
+    "max_health_points": "12650",
+    "max_attack": "352",
+    "max_defense": "793",
+    "breakout_increase": "暴击伤害38.4%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "坚牢黄玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1f/ktx2mtd48unswlqnmnq1ukc7dla5oic.png/60px-%E5%9D%9A%E7%89%A2%E9%BB%84%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "奇械发条备件·科培琉司",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/8/88/qlwgp2p6g6wd4q1a3cmna82kytw1gtk.png/60px-%E5%A5%87%E6%A2%B0%E5%8F%91%E6%9D%A1%E5%A4%87%E4%BB%B6%C2%B7%E7%A7%91%E5%9F%B9%E7%90%89%E5%8F%B8.png"
+      },
+      {
+        "name": "初露之源",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a6/hsp93ubjp4m3llviswvkb95itzh3n5h.png/60px-%E5%88%9D%E9%9C%B2%E4%B9%8B%E6%BA%90.png.jpeg"
+      },
+      {
+        "name": "异海凝珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d2/3kt23qm9owbv0v2a7fpusl8pngw0tcf.png/60px-%E5%BC%82%E6%B5%B7%E5%87%9D%E7%8F%A0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "异海凝珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d2/3kt23qm9owbv0v2a7fpusl8pngw0tcf.png/60px-%E5%BC%82%E6%B5%B7%E5%87%9D%E7%8F%A0.png"
+      },
+      {
+        "name": "「公平」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/jwfi44du7tqggoy0dofnd0jw8bcz40k.png/60px-%E3%80%8C%E5%85%AC%E5%B9%B3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "无光丝线",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/73/cigyf323zh8fl9ssnh6sydnzl2rtx9n.png/60px-%E6%97%A0%E5%85%89%E4%B8%9D%E7%BA%BF.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/a5/iakce2e672fecwy246beikk283jkxy1.png/60px-%E5%A4%8F%E6%B2%83%E8%95%BE%E5%A4%B4%E5%83%8F.png",
+    "name": "夏沃蕾",
+    "rarity": "4星",
+    "weapon": "长柄武器",
+    "element": "火",
+    "max_health_points": "",
+    "max_attack": "",
+    "max_defense": "",
+    "breakout_increase": "",
+    "materials_needed_for_breakthrough": [],
+    "materials_needed_for_talent": []
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/4/4a/pcfz7nh8676dqxxubrshq17jdu17xn9.png/60px-%E8%8A%99%E5%AE%81%E5%A8%9C%E5%A4%B4%E5%83%8F.png",
+    "name": "芙宁娜",
+    "rarity": "5星",
+    "weapon": "单手剑",
+    "element": "水",
+    "max_health_points": "15307",
+    "max_attack": "244",
+    "max_defense": "696",
+    "breakout_increase": "暴击率19.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "未能达成超越之水",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/76/b5w6sjqgne6n6qgmibqkjnnzqdpunlh.png/60px-%E6%9C%AA%E8%83%BD%E8%BE%BE%E6%88%90%E8%B6%85%E8%B6%8A%E4%B9%8B%E6%B0%B4.png"
+      },
+      {
+        "name": "湖光铃兰",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/2a/1hlube0o22toecnjmtv8m29ahaqhzmu.png/60px-%E6%B9%96%E5%85%89%E9%93%83%E5%85%B0.png"
+      },
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      },
+      {
+        "name": "「正义」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/24/7okwf4t06ukgwieysjuavzhogaxeuz9.png/60px-%E3%80%8C%E6%AD%A3%E4%B9%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "无光质块",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0b/rrtuczji4glurrc60w9entzaowkytfs.png/60px-%E6%97%A0%E5%85%89%E8%B4%A8%E5%9D%97.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/c/c7/o8580twmm0juo2woot5cc7w4ok1mx70.png/60px-%E5%A4%8F%E6%B4%9B%E8%92%82%E5%A4%B4%E5%83%8F.png",
+    "name": "夏洛蒂",
+    "rarity": "4星",
+    "weapon": "法器",
+    "element": "冰",
+    "max_health_points": "10766",
+    "max_attack": "173",
+    "max_defense": "546",
+    "breakout_increase": "攻击力加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "「图比昂装置」",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/71/qxsdzyhg7folx1y7f499faqwu7k108h.png/60px-%E3%80%8C%E5%9B%BE%E6%AF%94%E6%98%82%E8%A3%85%E7%BD%AE%E3%80%8D.png"
+      },
+      {
+        "name": "苍晶螺",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dd/kia6gww67cpizeb9ihwripu1cvb2hyt.png/60px-%E8%8B%8D%E6%99%B6%E8%9E%BA.png"
+      },
+      {
+        "name": "啮合齿轮",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ec/1bu6dtphz50emciqb5wqr7ash5yd7fn.png/60px-%E5%95%AE%E5%90%88%E9%BD%BF%E8%BD%AE.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "啮合齿轮",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ec/1bu6dtphz50emciqb5wqr7ash5yd7fn.png/60px-%E5%95%AE%E5%90%88%E9%BD%BF%E8%BD%AE.png"
+      },
+      {
+        "name": "「正义」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/24/7okwf4t06ukgwieysjuavzhogaxeuz9.png/60px-%E3%80%8C%E6%AD%A3%E4%B9%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "无光丝线",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/73/cigyf323zh8fl9ssnh6sydnzl2rtx9n.png/60px-%E6%97%A0%E5%85%89%E4%B8%9D%E7%BA%BF.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/a4/jvb2oapa38w7k6t4zd9y5x21hex5ku2.png/60px-%E8%8E%B1%E6%AC%A7%E6%96%AF%E5%88%A9%E5%A4%B4%E5%83%8F.png",
+    "name": "莱欧斯利",
+    "rarity": "5星",
+    "weapon": "法器",
+    "element": "冰",
+    "max_health_points": "13593",
+    "max_attack": "311",
+    "max_defense": "763",
+    "breakout_increase": "暴击伤害38.4％",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "「图比昂装置」",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/71/qxsdzyhg7folx1y7f499faqwu7k108h.png/60px-%E3%80%8C%E5%9B%BE%E6%AF%94%E6%98%82%E8%A3%85%E7%BD%AE%E3%80%8D.png"
+      },
+      {
+        "name": "子探测单元",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/8/8f/1ukqxytsh7yavm24pg8t78nropbi65v.png/60px-%E5%AD%90%E6%8E%A2%E6%B5%8B%E5%8D%95%E5%85%83.png"
+      },
+      {
+        "name": "啮合齿轮",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ec/1bu6dtphz50emciqb5wqr7ash5yd7fn.png/60px-%E5%95%AE%E5%90%88%E9%BD%BF%E8%BD%AE.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "啮合齿轮",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ec/1bu6dtphz50emciqb5wqr7ash5yd7fn.png/60px-%E5%95%AE%E5%90%88%E9%BD%BF%E8%BD%AE.png"
+      },
+      {
+        "name": "「秩序」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/fd/rknnk8ov011o83onn65hvxf9600e0ag.png/60px-%E3%80%8C%E7%A7%A9%E5%BA%8F%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "原初绿洲之初绽",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/f6/j0qz615a1fv0n58gstbeznntltvdl2m.png/60px-%E5%8E%9F%E5%88%9D%E7%BB%BF%E6%B4%B2%E4%B9%8B%E5%88%9D%E7%BB%BD.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/b/bb/aism1oli44ck26p72n0gv2elnqq1av7.png/60px-%E9%82%A3%E7%BB%B4%E8%8E%B1%E7%89%B9%E5%A4%B4%E5%83%8F.png",
+    "name": "那维莱特",
+    "rarity": "5星",
+    "weapon": "法器",
+    "element": "水",
+    "max_health_points": "14695",
+    "max_attack": "208",
+    "max_defense": "576",
+    "breakout_increase": "暴击伤害38.4%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "原海麟角",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0c/1bzjgif7jkwqxtd4cg76oqhvxc0erbg.png/60px-%E5%8E%9F%E6%B5%B7%E9%BA%9F%E8%A7%92.png"
+      },
+      {
+        "name": "幽光星星",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/7b82swo2yaf6f3cl3m536tswcnx3vzr.png/60px-%E5%B9%BD%E5%85%89%E6%98%9F%E6%98%9F.png"
+      },
+      {
+        "name": "异海凝珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d2/3kt23qm9owbv0v2a7fpusl8pngw0tcf.png/60px-%E5%BC%82%E6%B5%B7%E5%87%9D%E7%8F%A0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "异海凝珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d2/3kt23qm9owbv0v2a7fpusl8pngw0tcf.png/60px-%E5%BC%82%E6%B5%B7%E5%87%9D%E7%8F%A0.png"
+      },
+      {
+        "name": "「公平」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/jwfi44du7tqggoy0dofnd0jw8bcz40k.png/60px-%E3%80%8C%E5%85%AC%E5%B9%B3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "亘古树海之一瞬",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b0/2b5sy8dqs0ctuxw5jlcakrok79qc6xi.png/60px-%E4%BA%98%E5%8F%A4%E6%A0%91%E6%B5%B7%E4%B9%8B%E4%B8%80%E7%9E%AC.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/a0/9q78sq7t8twzzavpsyvssvrhk8rk2e7.png/60px-%E8%8F%B2%E7%B1%B3%E5%B0%BC%E5%A4%B4%E5%83%8F.png",
+    "name": "菲米尼",
+    "rarity": "4星",
+    "weapon": "双手剑",
+    "element": "冰",
+    "max_health_points": "12071",
+    "max_attack": "255",
+    "max_defense": "708",
+    "breakout_increase": "攻击力加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "奇械发条备件·科培琉司",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/8/88/qlwgp2p6g6wd4q1a3cmna82kytw1gtk.png/60px-%E5%A5%87%E6%A2%B0%E5%8F%91%E6%9D%A1%E5%A4%87%E4%BB%B6%C2%B7%E7%A7%91%E5%9F%B9%E7%90%89%E5%8F%B8.png"
+      },
+      {
+        "name": "海露花",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/9b/nedt2wvfyqk25ag9rvyc3grubkd44db.png/60px-%E6%B5%B7%E9%9C%B2%E8%8A%B1.png"
+      },
+      {
+        "name": "异海凝珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d2/3kt23qm9owbv0v2a7fpusl8pngw0tcf.png/60px-%E5%BC%82%E6%B5%B7%E5%87%9D%E7%8F%A0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "异海凝珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d2/3kt23qm9owbv0v2a7fpusl8pngw0tcf.png/60px-%E5%BC%82%E6%B5%B7%E5%87%9D%E7%8F%A0.png"
+      },
+      {
+        "name": "「正义」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/24/7okwf4t06ukgwieysjuavzhogaxeuz9.png/60px-%E3%80%8C%E6%AD%A3%E4%B9%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "生长天地之蕨草",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/24/8lu4rqf1si6u5951kl5m2o165pc9up0.png/60px-%E7%94%9F%E9%95%BF%E5%A4%A9%E5%9C%B0%E4%B9%8B%E8%95%A8%E8%8D%89.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/8/8c/tbalaahap33je75krxzg29fmuidcxit.png/60px-%E6%9E%97%E5%B0%BC%E5%A4%B4%E5%83%8F.png",
+    "name": "林尼",
+    "rarity": "5星",
+    "weapon": "弓",
+    "element": "火",
+    "max_health_points": "11021",
+    "max_attack": "318",
+    "max_defense": "538",
+    "breakout_increase": "暴击率19.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "帝皇的决断",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/38/sfg4e1o04nmiwk2agfr06l16cg7sjac.png/60px-%E5%B8%9D%E7%9A%87%E7%9A%84%E5%86%B3%E6%96%AD.png"
+      },
+      {
+        "name": "虹彩蔷薇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/3a/td67obeoxq3y2n1wngpw76tlwo37td3.png/60px-%E8%99%B9%E5%BD%A9%E8%94%B7%E8%96%87.png"
+      },
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      },
+      {
+        "name": "「公平」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/jwfi44du7tqggoy0dofnd0jw8bcz40k.png/60px-%E3%80%8C%E5%85%AC%E5%B9%B3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "原初绿洲之初绽",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/f6/j0qz615a1fv0n58gstbeznntltvdl2m.png/60px-%E5%8E%9F%E5%88%9D%E7%BB%BF%E6%B4%B2%E4%B9%8B%E5%88%9D%E7%BB%BD.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/2/26/48n9vyu0y80oimhqzz3g8otvsrs8yi5.png/60px-%E7%90%B3%E5%A6%AE%E7%89%B9%E5%A4%B4%E5%83%8F.png",
+    "name": "琳妮特",
+    "rarity": "4星",
+    "weapon": "单手剑",
+    "element": "风",
+    "max_health_points": "12397",
+    "max_attack": "232",
+    "max_defense": "712",
+    "breakout_increase": "风元素伤害加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "自在松石碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/55/a5jj1wipq1k46vqpu53zou84m645ck6.png/60px-%E8%87%AA%E5%9C%A8%E6%9D%BE%E7%9F%B3%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "奇械发条备件·歌裴莉娅",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/57/ihiaq4lo0kfdpfkqnxq6oj1w6tf7s7r.png/60px-%E5%A5%87%E6%A2%B0%E5%8F%91%E6%9D%A1%E5%A4%87%E4%BB%B6%C2%B7%E6%AD%8C%E8%A3%B4%E8%8E%89%E5%A8%85.png"
+      },
+      {
+        "name": "柔灯铃",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/96/qrwi9a8lz7i5o6sull6e8ktzd88ki1m.png/60px-%E6%9F%94%E7%81%AF%E9%93%83.png"
+      },
+      {
+        "name": "啮合齿轮",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ec/1bu6dtphz50emciqb5wqr7ash5yd7fn.png/60px-%E5%95%AE%E5%90%88%E9%BD%BF%E8%BD%AE.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "啮合齿轮",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ec/1bu6dtphz50emciqb5wqr7ash5yd7fn.png/60px-%E5%95%AE%E5%90%88%E9%BD%BF%E8%BD%AE.png"
+      },
+      {
+        "name": "「秩序」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/fd/rknnk8ov011o83onn65hvxf9600e0ag.png/60px-%E3%80%8C%E7%A7%A9%E5%BA%8F%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "亘古树海之一瞬",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b0/2b5sy8dqs0ctuxw5jlcakrok79qc6xi.png/60px-%E4%BA%98%E5%8F%A4%E6%A0%91%E6%B5%B7%E4%B9%8B%E4%B8%80%E7%9E%AC.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/7/74/2j2ezxbtzkc2nue8tle7ud492a17tl9.png/60px-%E7%BB%AE%E8%89%AF%E8%89%AF%E5%A4%B4%E5%83%8F.png",
+    "name": "绮良良",
+    "rarity": "4星",
+    "weapon": "单手剑",
+    "element": "草",
+    "max_health_points": "12180",
+    "max_attack": "223",
+    "max_defense": "546",
+    "breakout_increase": "生命值加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "生长碧翡碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/g0qovrxkmehiadivle557pkposd8poz.png/60px-%E7%94%9F%E9%95%BF%E7%A2%A7%E7%BF%A1%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "常暗圆环",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/24/odmjxix725hn9kch42c16unehigepw5.png/60px-%E5%B8%B8%E6%9A%97%E5%9C%86%E7%8E%AF.png"
+      },
+      {
+        "name": "天云草实",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/14/pqn0jrm15ius894r7xug57q4y6ma02w.png/60px-%E5%A4%A9%E4%BA%91%E8%8D%89%E5%AE%9E.png"
+      },
+      {
+        "name": "浮游干核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/kmi0faiyvn9f8b2s16ebohuz87bhor5.png/60px-%E6%B5%AE%E6%B8%B8%E5%B9%B2%E6%A0%B8.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "浮游干核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/kmi0faiyvn9f8b2s16ebohuz87bhor5.png/60px-%E6%B5%AE%E6%B8%B8%E5%B9%B2%E6%A0%B8.png"
+      },
+      {
+        "name": "「浮世」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/ba/dc3lrkvsftlzec4ckoge95m8yq8rztp.png/60px-%E3%80%8C%E6%B5%AE%E4%B8%96%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "亘古树海之一瞬",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b0/2b5sy8dqs0ctuxw5jlcakrok79qc6xi.png/60px-%E4%BA%98%E5%8F%A4%E6%A0%91%E6%B5%B7%E4%B9%8B%E4%B8%80%E7%9E%AC.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/1/14/rkydprgsuw6uaxbm4wotnaj8dw2v30a.png/60px-%E7%99%BD%E6%9C%AF%E5%A4%B4%E5%83%8F.png",
+    "name": "白术",
+    "rarity": "5星",
+    "weapon": "法器",
+    "element": "草",
+    "max_health_points": "13348",
+    "max_attack": "193",
+    "max_defense": "500",
+    "breakout_increase": "生命值加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "生长碧翡碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/g0qovrxkmehiadivle557pkposd8poz.png/60px-%E7%94%9F%E9%95%BF%E7%A2%A7%E7%BF%A1%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "常暗圆环",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/24/odmjxix725hn9kch42c16unehigepw5.png/60px-%E5%B8%B8%E6%9A%97%E5%9C%86%E7%8E%AF.png"
+      },
+      {
+        "name": "琉璃袋",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/44/8fyvd4mbs2l1avo508fht3t0qczuvoo.png/60px-%E7%90%89%E7%92%83%E8%A2%8B.png"
+      },
+      {
+        "name": "蕈兽孢子",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6f/658cg5qllun8rj81d1neru2tdsy3395.png/60px-%E8%95%88%E5%85%BD%E5%AD%A2%E5%AD%90.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "蕈兽孢子",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6f/658cg5qllun8rj81d1neru2tdsy3395.png/60px-%E8%95%88%E5%85%BD%E5%AD%A2%E5%AD%90.png"
+      },
+      {
+        "name": "「黄金」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/2xsd09kxqbqa7oj0q8yxsun34tie4a8.png/60px-%E3%80%8C%E9%BB%84%E9%87%91%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "生长天地之蕨草",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/24/8lu4rqf1si6u5951kl5m2o165pc9up0.png/60px-%E7%94%9F%E9%95%BF%E5%A4%A9%E5%9C%B0%E4%B9%8B%E8%95%A8%E8%8D%89.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/a5/ikw661j7l88l47ngkef9rtocduaznmr.png/60px-%E5%8D%A1%E7%BB%B4%E5%A4%B4%E5%83%8F.png",
+    "name": "卡维",
+    "rarity": "4星",
+    "weapon": "双手剑",
+    "element": "草",
+    "max_health_points": "11962",
+    "max_attack": "234",
+    "max_defense": "751",
+    "breakout_increase": "元素精通96",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "生长碧翡碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/g0qovrxkmehiadivle557pkposd8poz.png/60px-%E7%94%9F%E9%95%BF%E7%A2%A7%E7%BF%A1%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "灭诤草蔓",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/c/cc/3kh0r6qvzt0d9o4hkpqjm4j66fekgq5.png/60px-%E7%81%AD%E8%AF%A4%E8%8D%89%E8%94%93.png"
+      },
+      {
+        "name": "悼灵花",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/05/48eagtlvakf4vr7djojkcwqgytkddft.png/60px-%E6%82%BC%E7%81%B5%E8%8A%B1.png"
+      },
+      {
+        "name": "蕈兽孢子",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6f/658cg5qllun8rj81d1neru2tdsy3395.png/60px-%E8%95%88%E5%85%BD%E5%AD%A2%E5%AD%90.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "蕈兽孢子",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6f/658cg5qllun8rj81d1neru2tdsy3395.png/60px-%E8%95%88%E5%85%BD%E5%AD%A2%E5%AD%90.png"
+      },
+      {
+        "name": "「巧思」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/ab/cof97zp4s0m8fw7xkwls4rbhlm7k6q6.png/60px-%E3%80%8C%E5%B7%A7%E6%80%9D%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "原初绿洲之初绽",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/f6/j0qz615a1fv0n58gstbeznntltvdl2m.png/60px-%E5%8E%9F%E5%88%9D%E7%BB%BF%E6%B4%B2%E4%B9%8B%E5%88%9D%E7%BB%BD.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/f/f1/8dqxl2h8lrlz1la3s32y5fctsp8mbm2.png/60px-%E7%B1%B3%E5%8D%A1%E5%A4%B4%E5%83%8F.png",
+    "name": "米卡",
+    "rarity": "4星",
+    "weapon": "长柄武器",
+    "element": "冰",
+    "max_health_points": "12506",
+    "max_attack": "223",
+    "max_defense": "713",
+    "breakout_increase": "生命值加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "苍砾蕊羽",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/8/89/sq3sy81lc27uewfy9p3b6w9kwwsw4y2.png/60px-%E8%8B%8D%E7%A0%BE%E8%95%8A%E7%BE%BD.png"
+      },
+      {
+        "name": "钩钩果",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bd/nfjliiuj0e0qezkt4l36rltu2ayy3z2.png/60px-%E9%92%A9%E9%92%A9%E6%9E%9C.png"
+      },
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      },
+      {
+        "name": "「诗文」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4e/scd8f07njtgn4pjo3uppabwz5y0al12.png/60px-%E3%80%8C%E8%AF%97%E6%96%87%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "无心的渊镜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/43/pdgv3t8jymdpupie6skmbqxaphxsr6v.png/60px-%E6%97%A0%E5%BF%83%E7%9A%84%E6%B8%8A%E9%95%9C.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/9/98/n64mnzi2yy03qpzld3in619wijfqyj6.png/60px-%E8%BF%AA%E5%B8%8C%E9%9B%85%E5%A4%B4%E5%83%8F.png",
+    "name": "迪希雅",
+    "rarity": "5星",
+    "weapon": "双手剑",
+    "element": "火",
+    "max_health_points": "15675",
+    "max_attack": "266",
+    "max_defense": "628",
+    "breakout_increase": "生命值加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "导光四面体",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bd/o0ce10tlithk636rdpdxvvnmfmuh6dr.png/60px-%E5%AF%BC%E5%85%89%E5%9B%9B%E9%9D%A2%E4%BD%93.png"
+      },
+      {
+        "name": "沙脂蛹",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4b/ixtpyioqv4uffto3z5zm9ubvzf31kja.png/60px-%E6%B2%99%E8%84%82%E8%9B%B9.png.jpeg"
+      },
+      {
+        "name": "褪色红绸",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/5c/0ef1im9m98aoghucjcb5st22dlb3e4n.png/60px-%E8%A4%AA%E8%89%B2%E7%BA%A2%E7%BB%B8.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "褪色红绸",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/5c/0ef1im9m98aoghucjcb5st22dlb3e4n.png/60px-%E8%A4%AA%E8%89%B2%E7%BA%A2%E7%BB%B8.png"
+      },
+      {
+        "name": "「笃行」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b9/0y947ih1hbzobo1otkkucc0b4qcmhes.png/60px-%E3%80%8C%E7%AC%83%E8%A1%8C%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "傀儡的悬丝",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/36/r76ahzv9z1gc2tk4h7hwvhlakm2inen.png/60px-%E5%82%80%E5%84%A1%E7%9A%84%E6%82%AC%E4%B8%9D.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/5/5f/1f3bjp39yqbcwv25gz0075vwtmm4gmx.png/60px-%E7%91%B6%E7%91%B6%E5%A4%B4%E5%83%8F.png",
+    "name": "瑶瑶",
+    "rarity": "4星",
+    "weapon": "长柄武器",
+    "element": "草",
+    "max_health_points": "12289",
+    "max_attack": "212",
+    "max_defense": "751",
+    "breakout_increase": "生命值加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "生长碧翡碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/g0qovrxkmehiadivle557pkposd8poz.png/60px-%E7%94%9F%E9%95%BF%E7%A2%A7%E7%BF%A1%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "灭诤草蔓",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/c/cc/3kh0r6qvzt0d9o4hkpqjm4j66fekgq5.png/60px-%E7%81%AD%E8%AF%A4%E8%8D%89%E8%94%93.png"
+      },
+      {
+        "name": "绝云椒椒",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/51/hu1n43dprups8bmdtm40pl9nhkycg2h.png/60px-%E7%BB%9D%E4%BA%91%E6%A4%92%E6%A4%92.png"
+      },
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      },
+      {
+        "name": "「勤劳」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bf/5smyx10d90l15aijbfaq37z67bx8bq7.png/60px-%E3%80%8C%E5%8B%A4%E5%8A%B3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "空行的虚铃",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bd/1xoldn6a05vzbz27gfd9bxwnmteix7s.png/60px-%E7%A9%BA%E8%A1%8C%E7%9A%84%E8%99%9A%E9%93%83.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/e/e2/nugjaod5qmffz3tbtt8is50d8hf1u5r.png/60px-%E8%89%BE%E5%B0%94%E6%B5%B7%E6%A3%AE%E5%A4%B4%E5%83%8F.png",
+    "name": "艾尔海森",
+    "rarity": "5星",
+    "weapon": "单手剑",
+    "element": "草",
+    "max_health_points": "13348",
+    "max_attack": "313",
+    "max_defense": "782",
+    "breakout_increase": "草元素伤害加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "生长碧翡碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/g0qovrxkmehiadivle557pkposd8poz.png/60px-%E7%94%9F%E9%95%BF%E7%A2%A7%E7%BF%A1%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "苍砾蕊羽",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/8/89/sq3sy81lc27uewfy9p3b6w9kwwsw4y2.png/60px-%E8%8B%8D%E7%A0%BE%E8%95%8A%E7%BE%BD.png"
+      },
+      {
+        "name": "沙脂蛹",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4b/ixtpyioqv4uffto3z5zm9ubvzf31kja.png/60px-%E6%B2%99%E8%84%82%E8%9B%B9.png.jpeg"
+      },
+      {
+        "name": "褪色红绸",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/5c/0ef1im9m98aoghucjcb5st22dlb3e4n.png/60px-%E8%A4%AA%E8%89%B2%E7%BA%A2%E7%BB%B8.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "褪色红绸",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/5c/0ef1im9m98aoghucjcb5st22dlb3e4n.png/60px-%E8%A4%AA%E8%89%B2%E7%BA%A2%E7%BB%B8.png"
+      },
+      {
+        "name": "「巧思」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/ab/cof97zp4s0m8fw7xkwls4rbhlm7k6q6.png/60px-%E3%80%8C%E5%B7%A7%E6%80%9D%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "无心的渊镜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/43/pdgv3t8jymdpupie6skmbqxaphxsr6v.png/60px-%E6%97%A0%E5%BF%83%E7%9A%84%E6%B8%8A%E9%95%9C.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/lrf5xycxg48dchq27stnpawuvselk4i.png/60px-%E7%8F%90%E9%9C%B2%E7%8F%8A%E5%A4%B4%E5%83%8F.png",
+    "name": "珐露珊",
+    "rarity": "4星",
+    "weapon": "弓",
+    "element": "风",
+    "max_health_points": "9570",
+    "max_attack": "196",
+    "max_defense": "628",
+    "breakout_increase": "攻击力加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "自在松石碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/55/a5jj1wipq1k46vqpu53zou84m645ck6.png/60px-%E8%87%AA%E5%9C%A8%E6%9D%BE%E7%9F%B3%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "导光四面体",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bd/o0ce10tlithk636rdpdxvvnmfmuh6dr.png/60px-%E5%AF%BC%E5%85%89%E5%9B%9B%E9%9D%A2%E4%BD%93.png"
+      },
+      {
+        "name": "赤念果",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/c/c0/r1hu99arr36an108p6xjr7682fbk9fg.png/60px-%E8%B5%A4%E5%BF%B5%E6%9E%9C.png"
+      },
+      {
+        "name": "褪色红绸",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/5c/0ef1im9m98aoghucjcb5st22dlb3e4n.png/60px-%E8%A4%AA%E8%89%B2%E7%BA%A2%E7%BB%B8.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "褪色红绸",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/5c/0ef1im9m98aoghucjcb5st22dlb3e4n.png/60px-%E8%A4%AA%E8%89%B2%E7%BA%A2%E7%BB%B8.png"
+      },
+      {
+        "name": "「诤言」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4f/bqvztyp8r5iwdjr21056xqgeqnovz85.png/60px-%E3%80%8C%E8%AF%A4%E8%A8%80%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "傀儡的悬丝",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/36/r76ahzv9z1gc2tk4h7hwvhlakm2inen.png/60px-%E5%82%80%E5%84%A1%E7%9A%84%E6%82%AC%E4%B8%9D.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/6/69/ottjnyh4hg2kid1zqfiqlqext5w5v84.png/60px-%E6%B5%81%E6%B5%AA%E8%80%85%E5%A4%B4%E5%83%8F.png",
+    "name": "流浪者",
+    "rarity": "5星",
+    "weapon": "法器",
+    "element": "风",
+    "max_health_points": "10164",
+    "max_attack": "328",
+    "max_defense": "607",
+    "breakout_increase": "暴击率19.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "自在松石碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/55/a5jj1wipq1k46vqpu53zou84m645ck6.png/60px-%E8%87%AA%E5%9C%A8%E6%9D%BE%E7%9F%B3%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "永续机芯",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d1/b599vzxqsqmv3ciekph3d8zf0d4ez0o.png/60px-%E6%B0%B8%E7%BB%AD%E6%9C%BA%E8%8A%AF.png"
+      },
+      {
+        "name": "树王圣体菇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d3/40eb476zpxug9a1ajc32jq8js38wu1e.png/60px-%E6%A0%91%E7%8E%8B%E5%9C%A3%E4%BD%93%E8%8F%87.png"
+      },
+      {
+        "name": "破旧的刀镡",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/6xgsfzi7lotn6dt3485q19e63ecz6uk.png/60px-%E7%A0%B4%E6%97%A7%E7%9A%84%E5%88%80%E9%95%A1.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破旧的刀镡",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/6xgsfzi7lotn6dt3485q19e63ecz6uk.png/60px-%E7%A0%B4%E6%97%A7%E7%9A%84%E5%88%80%E9%95%A1.png"
+      },
+      {
+        "name": "「笃行」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b9/0y947ih1hbzobo1otkkucc0b4qcmhes.png/60px-%E3%80%8C%E7%AC%83%E8%A1%8C%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "空行的虚铃",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bd/1xoldn6a05vzbz27gfd9bxwnmteix7s.png/60px-%E7%A9%BA%E8%A1%8C%E7%9A%84%E8%99%9A%E9%93%83.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/3/3f/k7qq4ohnq5a9rgxn3uuqvmhw5j7y77q.png/60px-%E8%8E%B1%E4%BE%9D%E6%8B%89%E5%A4%B4%E5%83%8F.png",
+    "name": "莱依拉",
+    "rarity": "4星",
+    "weapon": "单手剑",
+    "element": "冰",
+    "max_health_points": "11092",
+    "max_attack": "217",
+    "max_defense": "655",
+    "breakout_increase": "生命值加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "永续机芯",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d1/b599vzxqsqmv3ciekph3d8zf0d4ez0o.png/60px-%E6%B0%B8%E7%BB%AD%E6%9C%BA%E8%8A%AF.png"
+      },
+      {
+        "name": "月莲",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/40/819bpl8r5vzz2eqdx1nsytrwkvitjs6.png/60px-%E6%9C%88%E8%8E%B2.png"
+      },
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      },
+      {
+        "name": "「巧思」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/ab/cof97zp4s0m8fw7xkwls4rbhlm7k6q6.png/60px-%E3%80%8C%E5%B7%A7%E6%80%9D%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "无心的渊镜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/43/pdgv3t8jymdpupie6skmbqxaphxsr6v.png/60px-%E6%97%A0%E5%BF%83%E7%9A%84%E6%B8%8A%E9%95%9C.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/7/7e/g5x8lguvxfq0hkv211yfecjdvm0xhe7.png/60px-%E7%BA%B3%E8%A5%BF%E5%A6%B2%E5%A4%B4%E5%83%8F.png",
+    "name": "纳西妲",
+    "rarity": "5星",
+    "weapon": "法器",
+    "element": "草",
+    "max_health_points": "10360",
+    "max_attack": "299",
+    "max_defense": "630",
+    "breakout_increase": "元素精通115",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "生长碧翡碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/g0qovrxkmehiadivle557pkposd8poz.png/60px-%E7%94%9F%E9%95%BF%E7%A2%A7%E7%BF%A1%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "灭诤草蔓",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/c/cc/3kh0r6qvzt0d9o4hkpqjm4j66fekgq5.png/60px-%E7%81%AD%E8%AF%A4%E8%8D%89%E8%94%93.png"
+      },
+      {
+        "name": "劫波莲",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/17/0rr5v63m6tpugu253hlv2mal399dwb1.png/60px-%E5%8A%AB%E6%B3%A2%E8%8E%B2.png"
+      },
+      {
+        "name": "蕈兽孢子",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6f/658cg5qllun8rj81d1neru2tdsy3395.png/60px-%E8%95%88%E5%85%BD%E5%AD%A2%E5%AD%90.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "蕈兽孢子",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6f/658cg5qllun8rj81d1neru2tdsy3395.png/60px-%E8%95%88%E5%85%BD%E5%AD%A2%E5%AD%90.png"
+      },
+      {
+        "name": "「巧思」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/ab/cof97zp4s0m8fw7xkwls4rbhlm7k6q6.png/60px-%E3%80%8C%E5%B7%A7%E6%80%9D%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "傀儡的悬丝",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/36/r76ahzv9z1gc2tk4h7hwvhlakm2inen.png/60px-%E5%82%80%E5%84%A1%E7%9A%84%E6%82%AC%E4%B8%9D.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/e/e1/94sj2gmd3pywnqv7ep9fdn5xrkfxaum.png/60px-%E5%A6%AE%E9%9C%B2%E5%A4%B4%E5%83%8F.png",
+    "name": "妮露",
+    "rarity": "5星",
+    "weapon": "单手剑",
+    "element": "水",
+    "max_health_points": "15185",
+    "max_attack": "230",
+    "max_defense": "729",
+    "breakout_increase": "生命值加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "永续机芯",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d1/b599vzxqsqmv3ciekph3d8zf0d4ez0o.png/60px-%E6%B0%B8%E7%BB%AD%E6%9C%BA%E8%8A%AF.png"
+      },
+      {
+        "name": "帕蒂沙兰",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a5/ouk3lh677vujv6wp49tvep492amo46f.png/60px-%E5%B8%95%E8%92%82%E6%B2%99%E5%85%B0.png"
+      },
+      {
+        "name": "蕈兽孢子",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6f/658cg5qllun8rj81d1neru2tdsy3395.png/60px-%E8%95%88%E5%85%BD%E5%AD%A2%E5%AD%90.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "蕈兽孢子",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6f/658cg5qllun8rj81d1neru2tdsy3395.png/60px-%E8%95%88%E5%85%BD%E5%AD%A2%E5%AD%90.png"
+      },
+      {
+        "name": "「笃行」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b9/0y947ih1hbzobo1otkkucc0b4qcmhes.png/60px-%E3%80%8C%E7%AC%83%E8%A1%8C%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "祸神之禊泪",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/46/165ea1q5p27c6i86y12o7cbebhtgsqe.png/60px-%E7%A5%B8%E7%A5%9E%E4%B9%8B%E7%A6%8A%E6%B3%AA.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/c/c8/lstlxgmithufj7tw1uix8wym7jrkp62.png/60px-%E5%9D%8E%E8%92%82%E4%B8%9D%E5%A4%B4%E5%83%8F.png",
+    "name": "坎蒂丝",
+    "rarity": "4星",
+    "weapon": "长柄武器",
+    "element": "水",
+    "max_health_points": "10875",
+    "max_attack": "212",
+    "max_defense": "683",
+    "breakout_increase": "生命值加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "导光四面体",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bd/o0ce10tlithk636rdpdxvvnmfmuh6dr.png/60px-%E5%AF%BC%E5%85%89%E5%9B%9B%E9%9D%A2%E4%BD%93.png"
+      },
+      {
+        "name": "赤念果",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/c/c0/r1hu99arr36an108p6xjr7682fbk9fg.png/60px-%E8%B5%A4%E5%BF%B5%E6%9E%9C.png"
+      },
+      {
+        "name": "褪色红绸",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/5c/0ef1im9m98aoghucjcb5st22dlb3e4n.png/60px-%E8%A4%AA%E8%89%B2%E7%BA%A2%E7%BB%B8.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "褪色红绸",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/5c/0ef1im9m98aoghucjcb5st22dlb3e4n.png/60px-%E8%A4%AA%E8%89%B2%E7%BA%A2%E7%BB%B8.png"
+      },
+      {
+        "name": "「诤言」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4f/bqvztyp8r5iwdjr21056xqgeqnovz85.png/60px-%E3%80%8C%E8%AF%A4%E8%A8%80%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "祸神之禊泪",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/46/165ea1q5p27c6i86y12o7cbebhtgsqe.png/60px-%E7%A5%B8%E7%A5%9E%E4%B9%8B%E7%A6%8A%E6%B3%AA.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/7/72/4yr49hl7qyuzcku5hnjrls2zrswcen5.png/60px-%E8%B5%9B%E8%AF%BA%E5%A4%B4%E5%83%8F.png",
+    "name": "赛诺",
+    "rarity": "5星",
+    "weapon": "长柄武器",
+    "element": "雷",
+    "max_health_points": "12491",
+    "max_attack": "318",
+    "max_defense": "859",
+    "breakout_increase": "暴击伤害38.4%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "藏雷野实",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/52/sdaboxfv4szndk4s3vc93e5cdxkz6ml.png/60px-%E8%97%8F%E9%9B%B7%E9%87%8E%E5%AE%9E.png"
+      },
+      {
+        "name": "圣金虫",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/29/rabrfl6wg7gddcmu10fhp4443hqjktf.png/60px-%E5%9C%A3%E9%87%91%E8%99%AB.png"
+      },
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      },
+      {
+        "name": "「诤言」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4f/bqvztyp8r5iwdjr21056xqgeqnovz85.png/60px-%E3%80%8C%E8%AF%A4%E8%A8%80%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "凶将之手眼",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/79/sirjvbki6spu95igriidetgsdfs186p.png/60px-%E5%87%B6%E5%B0%86%E4%B9%8B%E6%89%8B%E7%9C%BC.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/9/98/b54n1q1ssasdm18swkg6hiwzfzdgqes.png/60px-%E5%A4%9A%E8%8E%89%E5%A4%B4%E5%83%8F.png",
+    "name": "多莉",
+    "rarity": "4星",
+    "weapon": "双手剑",
+    "element": "雷",
+    "max_health_points": "12397",
+    "max_attack": "223",
+    "max_defense": "723",
+    "breakout_increase": "生命值加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "藏雷野实",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/52/sdaboxfv4szndk4s3vc93e5cdxkz6ml.png/60px-%E8%97%8F%E9%9B%B7%E9%87%8E%E5%AE%9E.png"
+      },
+      {
+        "name": "劫波莲",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/17/0rr5v63m6tpugu253hlv2mal399dwb1.png/60px-%E5%8A%AB%E6%B3%A2%E8%8E%B2.png"
+      },
+      {
+        "name": "褪色红绸",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/5c/0ef1im9m98aoghucjcb5st22dlb3e4n.png/60px-%E8%A4%AA%E8%89%B2%E7%BA%A2%E7%BB%B8.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "褪色红绸",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/5c/0ef1im9m98aoghucjcb5st22dlb3e4n.png/60px-%E8%A4%AA%E8%89%B2%E7%BA%A2%E7%BB%B8.png"
+      },
+      {
+        "name": "「巧思」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/ab/cof97zp4s0m8fw7xkwls4rbhlm7k6q6.png/60px-%E3%80%8C%E5%B7%A7%E6%80%9D%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "血玉之枝",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6d/et4jxc7vep43hq05wkl1lh09qwqcx80.png/60px-%E8%A1%80%E7%8E%89%E4%B9%8B%E6%9E%9D.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/f/fe/s0xi3unv8y860tefgz49gi56vf0or8z.png/60px-%E6%9F%AF%E8%8E%B1%E5%A4%B4%E5%83%8F.png",
+    "name": "柯莱",
+    "rarity": "4星",
+    "weapon": "弓",
+    "element": "草",
+    "max_health_points": "9787",
+    "max_attack": "200",
+    "max_defense": "601",
+    "breakout_increase": "攻击力加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "生长碧翡碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/g0qovrxkmehiadivle557pkposd8poz.png/60px-%E7%94%9F%E9%95%BF%E7%A2%A7%E7%BF%A1%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "蕈王钩喙",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/45/r3hd9qijtr6hoy8zb58g3br4s3fo52v.png/60px-%E8%95%88%E7%8E%8B%E9%92%A9%E5%96%99.png"
+      },
+      {
+        "name": "树王圣体菇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d3/40eb476zpxug9a1ajc32jq8js38wu1e.png/60px-%E6%A0%91%E7%8E%8B%E5%9C%A3%E4%BD%93%E8%8F%87.png"
+      },
+      {
+        "name": "牢固的箭簇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/61/ntk33iinzi59ecopm6qapb32ctvqbno.png/60px-%E7%89%A2%E5%9B%BA%E7%9A%84%E7%AE%AD%E7%B0%87.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "牢固的箭簇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/61/ntk33iinzi59ecopm6qapb32ctvqbno.png/60px-%E7%89%A2%E5%9B%BA%E7%9A%84%E7%AE%AD%E7%B0%87.png"
+      },
+      {
+        "name": "「笃行」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b9/0y947ih1hbzobo1otkkucc0b4qcmhes.png/60px-%E3%80%8C%E7%AC%83%E8%A1%8C%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "祸神之禊泪",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/46/165ea1q5p27c6i86y12o7cbebhtgsqe.png/60px-%E7%A5%B8%E7%A5%9E%E4%B9%8B%E7%A6%8A%E6%B3%AA.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/e/e5/9bq657i9ork1vn2uzv3fpd7p5q8dlqc.png/60px-%E6%8F%90%E7%BA%B3%E9%87%8C%E5%A4%B4%E5%83%8F.png",
+    "name": "提纳里",
+    "rarity": "5星",
+    "weapon": "弓",
+    "element": "草",
+    "max_health_points": "10850",
+    "max_attack": "268",
+    "max_defense": "630",
+    "breakout_increase": "草元素伤害加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "生长碧翡碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/g0qovrxkmehiadivle557pkposd8poz.png/60px-%E7%94%9F%E9%95%BF%E7%A2%A7%E7%BF%A1%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "蕈王钩喙",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/45/r3hd9qijtr6hoy8zb58g3br4s3fo52v.png/60px-%E8%95%88%E7%8E%8B%E9%92%A9%E5%96%99.png"
+      },
+      {
+        "name": "月莲",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/40/819bpl8r5vzz2eqdx1nsytrwkvitjs6.png/60px-%E6%9C%88%E8%8E%B2.png"
+      },
+      {
+        "name": "蕈兽孢子",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6f/658cg5qllun8rj81d1neru2tdsy3395.png/60px-%E8%95%88%E5%85%BD%E5%AD%A2%E5%AD%90.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "蕈兽孢子",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6f/658cg5qllun8rj81d1neru2tdsy3395.png/60px-%E8%95%88%E5%85%BD%E5%AD%A2%E5%AD%90.png"
+      },
+      {
+        "name": "「诤言」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4f/bqvztyp8r5iwdjr21056xqgeqnovz85.png/60px-%E3%80%8C%E8%AF%A4%E8%A8%80%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "万劫之真意",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/be/b9n868cixz2xl7ay1w9x25b005q6lda.png/60px-%E4%B8%87%E5%8A%AB%E4%B9%8B%E7%9C%9F%E6%84%8F.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/7/7f/0rst5gg62xkbdkl0jyirunzqstrdn79.png/60px-%E9%B9%BF%E9%87%8E%E9%99%A2%E5%B9%B3%E8%97%8F%E5%A4%B4%E5%83%8F.png",
+    "name": "鹿野院平藏",
+    "rarity": "4星",
+    "weapon": "法器",
+    "element": "风",
+    "max_health_points": "10657",
+    "max_attack": "225",
+    "max_defense": "684",
+    "breakout_increase": "风元素伤害加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "自在松石碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/55/a5jj1wipq1k46vqpu53zou84m645ck6.png/60px-%E8%87%AA%E5%9C%A8%E6%9D%BE%E7%9F%B3%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "符纹之齿",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/57/nzl3c04p0vadajjl1hjfbt0uc8fosxs.png/60px-%E7%AC%A6%E7%BA%B9%E4%B9%8B%E9%BD%BF.png"
+      },
+      {
+        "name": "鬼兜虫",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/78/m5w3sg3l1qtu0j4wjv4x81619u6lyyb.png/60px-%E9%AC%BC%E5%85%9C%E8%99%AB.png"
+      },
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      },
+      {
+        "name": "「浮世」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/ba/dc3lrkvsftlzec4ckoge95m8yq8rztp.png/60px-%E3%80%8C%E6%B5%AE%E4%B8%96%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "万劫之真意",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/be/b9n868cixz2xl7ay1w9x25b005q6lda.png/60px-%E4%B8%87%E5%8A%AB%E4%B9%8B%E7%9C%9F%E6%84%8F.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/d/d3/36j8hdr1i5dfg0r8tfxl0q8wlc8jndf.png/60px-%E4%B9%85%E5%B2%90%E5%BF%8D%E5%A4%B4%E5%83%8F.png",
+    "name": "久岐忍",
+    "rarity": "4星",
+    "weapon": "单手剑",
+    "element": "雷",
+    "max_health_points": "12289",
+    "max_attack": "212",
+    "max_defense": "751",
+    "breakout_increase": "生命值加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "符纹之齿",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/57/nzl3c04p0vadajjl1hjfbt0uc8fosxs.png/60px-%E7%AC%A6%E7%BA%B9%E4%B9%8B%E9%BD%BF.png"
+      },
+      {
+        "name": "鸣草",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/fe/r2afwhhcgwv5czqp2b17x6fsrscmkpb.png/60px-%E9%B8%A3%E8%8D%89.png"
+      },
+      {
+        "name": "浮游干核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/kmi0faiyvn9f8b2s16ebohuz87bhor5.png/60px-%E6%B5%AE%E6%B8%B8%E5%B9%B2%E6%A0%B8.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "浮游干核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/kmi0faiyvn9f8b2s16ebohuz87bhor5.png/60px-%E6%B5%AE%E6%B8%B8%E5%B9%B2%E6%A0%B8.png"
+      },
+      {
+        "name": "「风雅」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/c/c2/gsq4t4gnn62zk7ned3n8346ab223l0y.png/60px-%E3%80%8C%E9%A3%8E%E9%9B%85%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "祸神之禊泪",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/46/165ea1q5p27c6i86y12o7cbebhtgsqe.png/60px-%E7%A5%B8%E7%A5%9E%E4%B9%8B%E7%A6%8A%E6%B3%AA.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/4/42/e49y27vv8lhk0a9h199pgc0ramj3dk4.png/60px-%E5%A4%9C%E5%85%B0%E5%A4%B4%E5%83%8F.png",
+    "name": "夜兰",
+    "rarity": "5星",
+    "weapon": "弓",
+    "element": "水",
+    "max_health_points": "14450",
+    "max_attack": "244",
+    "max_defense": "548",
+    "breakout_increase": "暴击率19.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "符纹之齿",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/57/nzl3c04p0vadajjl1hjfbt0uc8fosxs.png/60px-%E7%AC%A6%E7%BA%B9%E4%B9%8B%E9%BD%BF.png"
+      },
+      {
+        "name": "星螺",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/53/42isaitty9g8baqenbn2ur1z8evrxgi.png/60px-%E6%98%9F%E8%9E%BA.png"
+      },
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      },
+      {
+        "name": "「繁荣」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/9d/d8s3c0jmziudqwm8dktkloojqnvliga.png/60px-%E3%80%8C%E7%B9%81%E8%8D%A3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "鎏金之鳞",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/3a/mukdfwxklvjtvmi46lspkrwyjzpfr0r.png/60px-%E9%8E%8F%E9%87%91%E4%B9%8B%E9%B3%9E.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/c/c7/sdgu6bh00rod7lypt9l9c9xlxojtjhl.png/60px-%E7%A5%9E%E9%87%8C%E7%BB%AB%E4%BA%BA%E5%A4%B4%E5%83%8F.png",
+    "name": "神里绫人",
+    "rarity": "5星",
+    "weapon": "单手剑",
+    "element": "水",
+    "max_health_points": "13715",
+    "max_attack": "299",
+    "max_defense": "769",
+    "breakout_increase": "暴击伤害38.4%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "排异之露",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/ae/9yr26y9l54flu0tj145rx8ujxb5i01n.png/60px-%E6%8E%92%E5%BC%82%E4%B9%8B%E9%9C%B2.png"
+      },
+      {
+        "name": "绯樱绣球",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/29/ec3nsjhrgijhza8f3rm4exepxh5zwwd.png/60px-%E7%BB%AF%E6%A8%B1%E7%BB%A3%E7%90%83.png"
+      },
+      {
+        "name": "破旧的刀镡",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/6xgsfzi7lotn6dt3485q19e63ecz6uk.png/60px-%E7%A0%B4%E6%97%A7%E7%9A%84%E5%88%80%E9%95%A1.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破旧的刀镡",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/6xgsfzi7lotn6dt3485q19e63ecz6uk.png/60px-%E7%A0%B4%E6%97%A7%E7%9A%84%E5%88%80%E9%95%A1.png"
+      },
+      {
+        "name": "「风雅」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/c/c2/gsq4t4gnn62zk7ned3n8346ab223l0y.png/60px-%E3%80%8C%E9%A3%8E%E9%9B%85%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "凶将之手眼",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/79/sirjvbki6spu95igriidetgsdfs186p.png/60px-%E5%87%B6%E5%B0%86%E4%B9%8B%E6%89%8B%E7%9C%BC.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/a4/0plzsmjpgzzpldn00zqijgfybgx2pac.png/60px-%E5%85%AB%E9%87%8D%E7%A5%9E%E5%AD%90%E5%A4%B4%E5%83%8F.png",
+    "name": "八重神子",
+    "rarity": "5星",
+    "weapon": "法器",
+    "element": "雷",
+    "max_health_points": "10372",
+    "max_attack": "340",
+    "max_defense": "569",
+    "breakout_increase": "暴击率19.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "龙嗣伪鳍",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b0/cbufyxrkswfl036nynbw97exsi5jqit.png/60px-%E9%BE%99%E5%97%A3%E4%BC%AA%E9%B3%8D.png"
+      },
+      {
+        "name": "海灵芝",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4a/imaov5i9nw916id2b2a5ndbvaf5fev7.png/60px-%E6%B5%B7%E7%81%B5%E8%8A%9D.png"
+      },
+      {
+        "name": "破旧的刀镡",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/6xgsfzi7lotn6dt3485q19e63ecz6uk.png/60px-%E7%A0%B4%E6%97%A7%E7%9A%84%E5%88%80%E9%95%A1.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破旧的刀镡",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/6xgsfzi7lotn6dt3485q19e63ecz6uk.png/60px-%E7%A0%B4%E6%97%A7%E7%9A%84%E5%88%80%E9%95%A1.png"
+      },
+      {
+        "name": "「天光」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/ba/7m2vkwe8qmshessn19mmk9t20u7mrh6.png/60px-%E3%80%8C%E5%A4%A9%E5%85%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "万劫之真意",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/be/b9n868cixz2xl7ay1w9x25b005q6lda.png/60px-%E4%B8%87%E5%8A%AB%E4%B9%8B%E7%9C%9F%E6%84%8F.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/e/e9/17iziqlqa20jj0w3yhp5bebzoo9y6bt.png/60px-%E4%BA%91%E5%A0%87%E5%A4%B4%E5%83%8F.png",
+    "name": "云堇",
+    "rarity": "4星",
+    "weapon": "长柄武器",
+    "element": "岩",
+    "max_health_points": "10657",
+    "max_attack": "191",
+    "max_defense": "734",
+    "breakout_increase": "元素充能26.7%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "坚牢黄玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1f/ktx2mtd48unswlqnmnq1ukc7dla5oic.png/60px-%E5%9D%9A%E7%89%A2%E9%BB%84%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "兽境王器",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a2/j7dxtxzo7gqz8lba3e7pkqmpwm328yf.png/60px-%E5%85%BD%E5%A2%83%E7%8E%8B%E5%99%A8.png"
+      },
+      {
+        "name": "琉璃百合",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/8/86/18d06e0tiwyhsksyrj1xpr1v8alf078.png/60px-%E7%90%89%E7%92%83%E7%99%BE%E5%90%88.png"
+      },
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      },
+      {
+        "name": "「勤劳」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bf/5smyx10d90l15aijbfaq37z67bx8bq7.png/60px-%E3%80%8C%E5%8B%A4%E5%8A%B3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "灰烬之心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/79/9e3szxc2yvyo9lx6fncmyhgm31hx6v1.png/60px-%E7%81%B0%E7%83%AC%E4%B9%8B%E5%BF%83.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/6/65/793kuoybdf409lnzwevsmd8ipnel1d2.png/60px-%E7%94%B3%E9%B9%A4%E5%A4%B4%E5%83%8F.png",
+    "name": "申鹤",
+    "rarity": "5星",
+    "weapon": "长柄武器",
+    "element": "冰",
+    "max_health_points": "12993",
+    "max_attack": "304",
+    "max_defense": "830",
+    "breakout_increase": "攻击力加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "龙嗣伪鳍",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b0/cbufyxrkswfl036nynbw97exsi5jqit.png/60px-%E9%BE%99%E5%97%A3%E4%BC%AA%E9%B3%8D.png"
+      },
+      {
+        "name": "清心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/14/0ck7znk6vavchmuas1rv60ejg4rgsdi.png/60px-%E6%B8%85%E5%BF%83.png"
+      },
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      },
+      {
+        "name": "「繁荣」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/9d/d8s3c0jmziudqwm8dktkloojqnvliga.png/60px-%E3%80%8C%E7%B9%81%E8%8D%A3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "狱火之蝶",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/de/aw3h4hriua41s3xvi0alp89eo526dgf.png/60px-%E7%8B%B1%E7%81%AB%E4%B9%8B%E8%9D%B6.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/d/d4/8ok291j1owt70axz3l8bxlj51w9rvl5.png/60px-%E4%BA%94%E9%83%8E.png",
+    "name": "五郎",
+    "rarity": "4星",
+    "weapon": "弓",
+    "element": "岩",
+    "max_health_points": "9570",
+    "max_attack": "183",
+    "max_defense": "648",
+    "breakout_increase": "岩元素伤害加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "坚牢黄玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1f/ktx2mtd48unswlqnmnq1ukc7dla5oic.png/60px-%E5%9D%9A%E7%89%A2%E9%BB%84%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "恒常机关之心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d0/t5saym52n96nk6r32u7yc1ryulm585d.png/60px-%E6%81%92%E5%B8%B8%E6%9C%BA%E5%85%B3%E4%B9%8B%E5%BF%83.png"
+      },
+      {
+        "name": "珊瑚真珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/e4/hb2a53ob7i71muenzgcjcurbh9szzjd.png/60px-%E7%8F%8A%E7%91%9A%E7%9C%9F%E7%8F%A0.png"
+      },
+      {
+        "name": "浮游干核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/kmi0faiyvn9f8b2s16ebohuz87bhor5.png/60px-%E6%B5%AE%E6%B8%B8%E5%B9%B2%E6%A0%B8.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "浮游干核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/kmi0faiyvn9f8b2s16ebohuz87bhor5.png/60px-%E6%B5%AE%E6%B8%B8%E5%B9%B2%E6%A0%B8.png"
+      },
+      {
+        "name": "「天光」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/ba/7m2vkwe8qmshessn19mmk9t20u7mrh6.png/60px-%E3%80%8C%E5%A4%A9%E5%85%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "熔毁之刻",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/73/belsm6kou7k7wep2te718fryeknw5mz.png/60px-%E7%86%94%E6%AF%81%E4%B9%8B%E5%88%BB.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/5/55/5sdwiryq6bjb3tjxxtg1e8njdmggirp.png/60px-%E8%8D%92%E6%B3%B7%E4%B8%80%E6%96%97.png",
+    "name": "荒泷一斗",
+    "rarity": "5星",
+    "weapon": "双手剑",
+    "element": "岩",
+    "max_health_points": "12858",
+    "max_attack": "227",
+    "max_defense": "959",
+    "breakout_increase": "暴击率19.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "坚牢黄玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1f/ktx2mtd48unswlqnmnq1ukc7dla5oic.png/60px-%E5%9D%9A%E7%89%A2%E9%BB%84%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "兽境王器",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a2/j7dxtxzo7gqz8lba3e7pkqmpwm328yf.png/60px-%E5%85%BD%E5%A2%83%E7%8E%8B%E5%99%A8.png"
+      },
+      {
+        "name": "鬼兜虫",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/78/m5w3sg3l1qtu0j4wjv4x81619u6lyyb.png/60px-%E9%AC%BC%E5%85%9C%E8%99%AB.png"
+      },
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      },
+      {
+        "name": "「风雅」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/c/c2/gsq4t4gnn62zk7ned3n8346ab223l0y.png/60px-%E3%80%8C%E9%A3%8E%E9%9B%85%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "灰烬之心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/79/9e3szxc2yvyo9lx6fncmyhgm31hx6v1.png/60px-%E7%81%B0%E7%83%AC%E4%B9%8B%E5%BF%83.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/f/f1/4npwdwlbof3hff5s7yyoxn5afmyo6bs.png/60px-%E6%89%98%E9%A9%AC%E5%A4%B4%E5%83%8F.png",
+    "name": "托马",
+    "rarity": "4星",
+    "weapon": "长柄武器",
+    "element": "火",
+    "max_health_points": "10331",
+    "max_attack": "202",
+    "max_defense": "751",
+    "breakout_increase": "攻击力加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "阴燃之珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1c/sij2fwrznhfm2qd7pegf7cg4o38ze2i.png/60px-%E9%98%B4%E7%87%83%E4%B9%8B%E7%8F%A0.png"
+      },
+      {
+        "name": "幽灯蕈",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/f3/088pm6cq7tmt2m64dpdna5bczabjqee.png/60px-%E5%B9%BD%E7%81%AF%E8%95%88.png"
+      },
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      },
+      {
+        "name": "「浮世」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/ba/dc3lrkvsftlzec4ckoge95m8yq8rztp.png/60px-%E3%80%8C%E6%B5%AE%E4%B8%96%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "狱火之蝶",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/de/aw3h4hriua41s3xvi0alp89eo526dgf.png/60px-%E7%8B%B1%E7%81%AB%E4%B9%8B%E8%9D%B6.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/b/bf/kyfltllg1qaoki7pwpefy7xh8022duy.png/60px-%E7%8F%8A%E7%91%9A%E5%AE%AB%E5%BF%83%E6%B5%B7%E5%A4%B4%E5%83%8F.png",
+    "name": "珊瑚宫心海",
+    "rarity": "5星",
+    "weapon": "法器",
+    "element": "水",
+    "max_health_points": "13471",
+    "max_attack": "234",
+    "max_defense": "657",
+    "breakout_increase": "水元素伤害加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "排异之露",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/ae/9yr26y9l54flu0tj145rx8ujxb5i01n.png/60px-%E6%8E%92%E5%BC%82%E4%B9%8B%E9%9C%B2.png"
+      },
+      {
+        "name": "珊瑚真珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/e4/hb2a53ob7i71muenzgcjcurbh9szzjd.png/60px-%E7%8F%8A%E7%91%9A%E7%9C%9F%E7%8F%A0.png"
+      },
+      {
+        "name": "浮游干核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/kmi0faiyvn9f8b2s16ebohuz87bhor5.png/60px-%E6%B5%AE%E6%B8%B8%E5%B9%B2%E6%A0%B8.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "浮游干核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/kmi0faiyvn9f8b2s16ebohuz87bhor5.png/60px-%E6%B5%AE%E6%B8%B8%E5%B9%B2%E6%A0%B8.png"
+      },
+      {
+        "name": "「浮世」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/ba/dc3lrkvsftlzec4ckoge95m8yq8rztp.png/60px-%E3%80%8C%E6%B5%AE%E4%B8%96%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "狱火之蝶",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/de/aw3h4hriua41s3xvi0alp89eo526dgf.png/60px-%E7%8B%B1%E7%81%AB%E4%B9%8B%E8%9D%B6.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/1/12/72b7b1cm9etjeqnpg5rmfafhhj3s1nm.png/60px-%E5%9F%83%E6%B4%9B%E4%BC%8A%E5%A4%B4%E5%83%8F.png",
+    "name": "埃洛伊",
+    "rarity": "5星",
+    "weapon": "弓",
+    "element": "冰",
+    "max_health_points": "10899",
+    "max_attack": "234",
+    "max_defense": "676",
+    "breakout_increase": "冰元素伤害加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "晶凝之华",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/48/67rnnjsr27ww4hxsbdpmp5ufypz3yhf.png/60px-%E6%99%B6%E5%87%9D%E4%B9%8B%E5%8D%8E.png"
+      },
+      {
+        "name": "晶化骨髓",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1b/sp69r42kjovv9ra4983s8h2o6ip93mi.png/60px-%E6%99%B6%E5%8C%96%E9%AA%A8%E9%AB%93.png"
+      },
+      {
+        "name": "浮游干核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/kmi0faiyvn9f8b2s16ebohuz87bhor5.png/60px-%E6%B5%AE%E6%B8%B8%E5%B9%B2%E6%A0%B8.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "浮游干核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/kmi0faiyvn9f8b2s16ebohuz87bhor5.png/60px-%E6%B5%AE%E6%B8%B8%E5%B9%B2%E6%A0%B8.png"
+      },
+      {
+        "name": "「自由」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/44/1sqwo81lurozcfbp8qphoa2penb07ar.png/60px-%E3%80%8C%E8%87%AA%E7%94%B1%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "熔毁之刻",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/73/belsm6kou7k7wep2te718fryeknw5mz.png/60px-%E7%86%94%E6%AF%81%E4%B9%8B%E5%88%BB.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/1/11/e9o4gu6ztf7zytnvvkeoerbevkjfwjr.png/60px-%E9%9B%B7%E7%94%B5%E5%B0%86%E5%86%9B%E5%A4%B4%E5%83%8F.png",
+    "name": "雷电将军",
+    "rarity": "5星",
+    "weapon": "长柄武器",
+    "element": "雷",
+    "max_health_points": "12907",
+    "max_attack": "337",
+    "max_defense": "789",
+    "breakout_increase": "元素充能32%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "雷霆数珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/15/gjp4ls1k3o4lyan51sj821mfkoqw6di.png/60px-%E9%9B%B7%E9%9C%86%E6%95%B0%E7%8F%A0.png"
+      },
+      {
+        "name": "天云草实",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/14/pqn0jrm15ius894r7xug57q4y6ma02w.png/60px-%E5%A4%A9%E4%BA%91%E8%8D%89%E5%AE%9E.png"
+      },
+      {
+        "name": "破旧的刀镡",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/6xgsfzi7lotn6dt3485q19e63ecz6uk.png/60px-%E7%A0%B4%E6%97%A7%E7%9A%84%E5%88%80%E9%95%A1.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破旧的刀镡",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/6xgsfzi7lotn6dt3485q19e63ecz6uk.png/60px-%E7%A0%B4%E6%97%A7%E7%9A%84%E5%88%80%E9%95%A1.png"
+      },
+      {
+        "name": "「天光」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/ba/7m2vkwe8qmshessn19mmk9t20u7mrh6.png/60px-%E3%80%8C%E5%A4%A9%E5%85%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "熔毁之刻",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/73/belsm6kou7k7wep2te718fryeknw5mz.png/60px-%E7%86%94%E6%AF%81%E4%B9%8B%E5%88%BB.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/6/60/bkvh6arzlluljnmsp1c36hbtqf37epy.png/60px-%E4%B9%9D%E6%9D%A1%E8%A3%9F%E7%BD%97%E5%A4%B4%E5%83%8F.png",
+    "name": "九条裟罗",
+    "rarity": "4星",
+    "weapon": "弓",
+    "element": "雷",
+    "max_health_points": "9570",
+    "max_attack": "195",
+    "max_defense": "628",
+    "breakout_increase": "攻击力加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "雷霆数珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/15/gjp4ls1k3o4lyan51sj821mfkoqw6di.png/60px-%E9%9B%B7%E9%9C%86%E6%95%B0%E7%8F%A0.png"
+      },
+      {
+        "name": "血斛",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/e9/jdr2luvc4fmo1vt8rdz6qd1m2hl94kl.png/60px-%E8%A1%80%E6%96%9B.png"
+      },
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      },
+      {
+        "name": "「风雅」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/c/c2/gsq4t4gnn62zk7ned3n8346ab223l0y.png/60px-%E3%80%8C%E9%A3%8E%E9%9B%85%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "灰烬之心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/79/9e3szxc2yvyo9lx6fncmyhgm31hx6v1.png/60px-%E7%81%B0%E7%83%AC%E4%B9%8B%E5%BF%83.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/b/bc/pz347ut911ktapyemd3ewiyx1dwv3te.png/60px-%E5%AE%B5%E5%AE%AB%E5%A4%B4%E5%83%8F.png",
+    "name": "宵宫",
+    "rarity": "5星",
+    "weapon": "弓",
+    "element": "火",
+    "max_health_points": "10164",
+    "max_attack": "323",
+    "max_defense": "615",
+    "breakout_increase": "暴击率19.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "阴燃之珠",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1c/sij2fwrznhfm2qd7pegf7cg4o38ze2i.png/60px-%E9%98%B4%E7%87%83%E4%B9%8B%E7%8F%A0.png"
+      },
+      {
+        "name": "鸣草",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/fe/r2afwhhcgwv5czqp2b17x6fsrscmkpb.png/60px-%E9%B8%A3%E8%8D%89.png"
+      },
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      },
+      {
+        "name": "「浮世」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/ba/dc3lrkvsftlzec4ckoge95m8yq8rztp.png/60px-%E3%80%8C%E6%B5%AE%E4%B8%96%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "龙王之冕",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/57/qjysc7hroqrry61wv7zz1qwzhwedncq.png/60px-%E9%BE%99%E7%8E%8B%E4%B9%8B%E5%86%95.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/a2/g52x6102jce31mjisvtsormdvbvdp1s.png/60px-%E6%97%A9%E6%9F%9A%E5%A4%B4%E5%83%8F.png",
+    "name": "早柚",
+    "rarity": "4星",
+    "weapon": "双手剑",
+    "element": "风",
+    "max_health_points": "11854",
+    "max_attack": "244",
+    "max_defense": "745",
+    "breakout_increase": "元素精通96",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "自在松石碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/55/a5jj1wipq1k46vqpu53zou84m645ck6.png/60px-%E8%87%AA%E5%9C%A8%E6%9D%BE%E7%9F%B3%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "魔偶机心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/fc/fshixi0n7xj1l5knek9kkyroixcps4a.png/60px-%E9%AD%94%E5%81%B6%E6%9C%BA%E5%BF%83.png"
+      },
+      {
+        "name": "晶化骨髓",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1b/sp69r42kjovv9ra4983s8h2o6ip93mi.png/60px-%E6%99%B6%E5%8C%96%E9%AA%A8%E9%AB%93.png"
+      },
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      },
+      {
+        "name": "「天光」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/ba/7m2vkwe8qmshessn19mmk9t20u7mrh6.png/60px-%E3%80%8C%E5%A4%A9%E5%85%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "鎏金之鳞",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/3a/mukdfwxklvjtvmi46lspkrwyjzpfr0r.png/60px-%E9%8E%8F%E9%87%91%E4%B9%8B%E9%B3%9E.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/4/4c/8h931m3f8nkkvjfq3f03c8a9h0f6x69.png/60px-%E7%A5%9E%E9%87%8C%E7%BB%AB%E5%8D%8E%E5%A4%B4%E5%83%8F.png",
+    "name": "神里绫华",
+    "rarity": "5星",
+    "weapon": "单手剑",
+    "element": "冰",
+    "max_health_points": "12858",
+    "max_attack": "342",
+    "max_defense": "784",
+    "breakout_increase": "暴击伤害38.4%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "恒常机关之心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d0/t5saym52n96nk6r32u7yc1ryulm585d.png/60px-%E6%81%92%E5%B8%B8%E6%9C%BA%E5%85%B3%E4%B9%8B%E5%BF%83.png"
+      },
+      {
+        "name": "绯樱绣球",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/29/ec3nsjhrgijhza8f3rm4exepxh5zwwd.png/60px-%E7%BB%AF%E6%A8%B1%E7%BB%A3%E7%90%83.png"
+      },
+      {
+        "name": "破旧的刀镡",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/6xgsfzi7lotn6dt3485q19e63ecz6uk.png/60px-%E7%A0%B4%E6%97%A7%E7%9A%84%E5%88%80%E9%95%A1.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破旧的刀镡",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/6xgsfzi7lotn6dt3485q19e63ecz6uk.png/60px-%E7%A0%B4%E6%97%A7%E7%9A%84%E5%88%80%E9%95%A1.png"
+      },
+      {
+        "name": "「风雅」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/c/c2/gsq4t4gnn62zk7ned3n8346ab223l0y.png/60px-%E3%80%8C%E9%A3%8E%E9%9B%85%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png"
+      },
+      {
+        "name": "血玉之枝",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6d/et4jxc7vep43hq05wkl1lh09qwqcx80.png/60px-%E8%A1%80%E7%8E%89%E4%B9%8B%E6%9E%9D.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/e1n6v73p785ne6kew41q9snh45zrup2.png/60px-%E6%9E%AB%E5%8E%9F%E4%B8%87%E5%8F%B6%E5%A4%B4%E5%83%8F.png",
+    "name": "枫原万叶",
+    "rarity": "5星",
+    "weapon": "单手剑",
+    "element": "风",
+    "max_health_points": "13348",
+    "max_attack": "297",
+    "max_defense": "807",
+    "breakout_increase": "元素精通115",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "自在松石碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/55/a5jj1wipq1k46vqpu53zou84m645ck6.png/60px-%E8%87%AA%E5%9C%A8%E6%9D%BE%E7%9F%B3%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "魔偶机心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/fc/fshixi0n7xj1l5knek9kkyroixcps4a.png/60px-%E9%AD%94%E5%81%B6%E6%9C%BA%E5%BF%83.png"
+      },
+      {
+        "name": "海灵芝",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4a/imaov5i9nw916id2b2a5ndbvaf5fev7.png/60px-%E6%B5%B7%E7%81%B5%E8%8A%9D.png"
+      },
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      },
+      {
+        "name": "「勤劳」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bf/5smyx10d90l15aijbfaq37z67bx8bq7.png/60px-%E3%80%8C%E5%8B%A4%E5%8A%B3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "鎏金之鳞",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/3a/mukdfwxklvjtvmi46lspkrwyjzpfr0r.png/60px-%E9%8E%8F%E9%87%91%E4%B9%8B%E9%B3%9E.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/1/1b/jf6qfoaq6q48jx6lvqb88dgl4xta141.png/60px-%E4%BC%98%E8%8F%88%E5%A4%B4%E5%83%8F.png",
+    "name": "优菈",
+    "rarity": "5星",
+    "weapon": "双手剑",
+    "element": "冰",
+    "max_health_points": "13226",
+    "max_attack": "342",
+    "max_defense": "751",
+    "breakout_increase": "暴击伤害38.4%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "晶凝之华",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/48/67rnnjsr27ww4hxsbdpmp5ufypz3yhf.png/60px-%E6%99%B6%E5%87%9D%E4%B9%8B%E5%8D%8E.png"
+      },
+      {
+        "name": "蒲公英籽",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bc/92j6w389xrpflh1yjw3hvt7dcfeb7i5.png/60px-%E8%92%B2%E5%85%AC%E8%8B%B1%E7%B1%BD.png"
+      },
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      },
+      {
+        "name": "「抗争」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/e63gxc1xlbuzoh2foi4nbuhpwwqv6lb.png/60px-%E3%80%8C%E6%8A%97%E4%BA%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "龙王之冕",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/57/qjysc7hroqrry61wv7zz1qwzhwedncq.png/60px-%E9%BE%99%E7%8E%8B%E4%B9%8B%E5%86%95.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/5/59/mzwn4qo66r2bh5aod73wvmeml4tf3jw.png/60px-%E7%83%9F%E7%BB%AF%E5%A4%B4%E5%83%8F.png",
+    "name": "烟绯",
+    "rarity": "4星",
+    "weapon": "法器",
+    "element": "火",
+    "max_health_points": "9352",
+    "max_attack": "240",
+    "max_defense": "587",
+    "breakout_increase": "火元素伤害加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "未熟之玉",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/43/9g67fzoe45j3gsqqpzmm4iz6in8j1cv.png/60px-%E6%9C%AA%E7%86%9F%E4%B9%8B%E7%8E%89.png"
+      },
+      {
+        "name": "夜泊石",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a4/jkou9q2vctetyllvil8wzbbvuk492o8.png/60px-%E5%A4%9C%E6%B3%8A%E7%9F%B3.png"
+      },
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      },
+      {
+        "name": "「黄金」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/2xsd09kxqbqa7oj0q8yxsun34tie4a8.png/60px-%E3%80%8C%E9%BB%84%E9%87%91%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "血玉之枝",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6d/et4jxc7vep43hq05wkl1lh09qwqcx80.png/60px-%E8%A1%80%E7%8E%89%E4%B9%8B%E6%9E%9D.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/d/d0/euoe9ncjixk5wlzfumjb81zf2ew7i49.png/60px-%E7%BD%97%E8%8E%8E%E8%8E%89%E4%BA%9A%E5%A4%B4%E5%83%8F.png",
+    "name": "罗莎莉亚",
+    "rarity": "4星",
+    "weapon": "长柄武器",
+    "element": "冰",
+    "max_health_points": "12289",
+    "max_attack": "240",
+    "max_defense": "710",
+    "breakout_increase": "攻击力加成24.0%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "极寒之核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/00/2vohu91nam4qbktljzvbj6hfi6ttnmn.png/60px-%E6%9E%81%E5%AF%92%E4%B9%8B%E6%A0%B8.png"
+      },
+      {
+        "name": "落落莓",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/18/s7wq2fo25gt8ly7ovjdsi5587wqhdru.png/60px-%E8%90%BD%E8%90%BD%E8%8E%93.png"
+      },
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      },
+      {
+        "name": "「诗文」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4e/scd8f07njtgn4pjo3uppabwz5y0al12.png/60px-%E3%80%8C%E8%AF%97%E6%96%87%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "武炼之魂·孤影",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/e7/5c0bfl308urg8nwo9i6525dmkto5jeg.png/60px-%E6%AD%A6%E7%82%BC%E4%B9%8B%E9%AD%82%C2%B7%E5%AD%A4%E5%BD%B1.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/1/19/6x5q4v3ovlgtd5pk7xlqxjdqv1gvf0a.png/60px-%E8%83%A1%E6%A1%83%E5%A4%B4%E5%83%8F.png",
+    "name": "胡桃",
+    "rarity": "5星",
+    "weapon": "长柄武器",
+    "element": "火",
+    "max_health_points": "15552",
+    "max_attack": "106.4",
+    "max_defense": "876",
+    "breakout_increase": "暴击伤害38.4%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "未熟之玉",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/43/9g67fzoe45j3gsqqpzmm4iz6in8j1cv.png/60px-%E6%9C%AA%E7%86%9F%E4%B9%8B%E7%8E%89.png"
+      },
+      {
+        "name": "霓裳花",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/66/8mcibf8n98zvl09d10urt5o7qij9vat.png/60px-%E9%9C%93%E8%A3%B3%E8%8A%B1.png"
+      },
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      },
+      {
+        "name": "「勤劳」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bf/5smyx10d90l15aijbfaq37z67bx8bq7.png/60px-%E3%80%8C%E5%8B%A4%E5%8A%B3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "魔王之刃·残片",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d5/9mzpoj6h565mm5tvaz54xae9visk7h3.png/60px-%E9%AD%94%E7%8E%8B%E4%B9%8B%E5%88%83%C2%B7%E6%AE%8B%E7%89%87.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/d/da/5gzl19235uvm0mxu3w45hqnb27f0mn6.png/60px-%E9%AD%88%E5%A4%B4%E5%83%8F.png",
+    "name": "魈",
+    "rarity": "5星",
+    "weapon": "长柄武器",
+    "element": "风",
+    "max_health_points": "12736",
+    "max_attack": "349",
+    "max_defense": "799",
+    "breakout_increase": "暴击率19.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "自在松石碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/55/a5jj1wipq1k46vqpu53zou84m645ck6.png/60px-%E8%87%AA%E5%9C%A8%E6%9D%BE%E7%9F%B3%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "未熟之玉",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/43/9g67fzoe45j3gsqqpzmm4iz6in8j1cv.png/60px-%E6%9C%AA%E7%86%9F%E4%B9%8B%E7%8E%89.png"
+      },
+      {
+        "name": "清心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/14/0ck7znk6vavchmuas1rv60ejg4rgsdi.png/60px-%E6%B8%85%E5%BF%83.png"
+      },
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      },
+      {
+        "name": "「繁荣」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/9d/d8s3c0jmziudqwm8dktkloojqnvliga.png/60px-%E3%80%8C%E7%B9%81%E8%8D%A3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "武炼之魂·孤影",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/e7/5c0bfl308urg8nwo9i6525dmkto5jeg.png/60px-%E6%AD%A6%E7%82%BC%E4%B9%8B%E9%AD%82%C2%B7%E5%AD%A4%E5%BD%B1.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/3/3c/qr9mmt4ryhcuovbx82pazu3xv7wr19p.png/60px-%E7%94%98%E9%9B%A8%E5%A4%B4%E5%83%8F.png",
+    "name": "甘雨",
+    "rarity": "5星",
+    "weapon": "弓",
+    "element": "冰",
+    "max_health_points": "9797",
+    "max_attack": "335",
+    "max_defense": "630",
+    "breakout_increase": "暴击伤害38.4%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "极寒之核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/00/2vohu91nam4qbktljzvbj6hfi6ttnmn.png/60px-%E6%9E%81%E5%AF%92%E4%B9%8B%E6%A0%B8.png"
+      },
+      {
+        "name": "清心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/14/0ck7znk6vavchmuas1rv60ejg4rgsdi.png/60px-%E6%B8%85%E5%BF%83.png"
+      },
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      },
+      {
+        "name": "「勤劳」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bf/5smyx10d90l15aijbfaq37z67bx8bq7.png/60px-%E3%80%8C%E5%8B%A4%E5%8A%B3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "武炼之魂·孤影",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/e7/5c0bfl308urg8nwo9i6525dmkto5jeg.png/60px-%E6%AD%A6%E7%82%BC%E4%B9%8B%E9%AD%82%C2%B7%E5%AD%A4%E5%BD%B1.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/2/21/k1zod68cqa6e89r0poxm9ihfmqfmgvw.png/60px-%E9%98%BF%E8%B4%9D%E5%A4%9A%E5%A4%B4%E5%83%8F.png",
+    "name": "阿贝多",
+    "rarity": "5星",
+    "weapon": "单手剑",
+    "element": "岩",
+    "max_health_points": "13226",
+    "max_attack": "251",
+    "max_defense": "876",
+    "breakout_increase": "岩元素伤害加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "坚牢黄玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1f/ktx2mtd48unswlqnmnq1ukc7dla5oic.png/60px-%E5%9D%9A%E7%89%A2%E9%BB%84%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "玄岩之塔",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/33/1n714bntt1r529t635svfpjuw9tcmeg.png/60px-%E7%8E%84%E5%B2%A9%E4%B9%8B%E5%A1%94.png"
+      },
+      {
+        "name": "塞西莉亚花",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bf/c7i8kp8rq4m8ys380dx9cffxjbfx4qf.png/60px-%E5%A1%9E%E8%A5%BF%E8%8E%89%E4%BA%9A%E8%8A%B1.png"
+      },
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      },
+      {
+        "name": "「诗文」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4e/scd8f07njtgn4pjo3uppabwz5y0al12.png/60px-%E3%80%8C%E8%AF%97%E6%96%87%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "吞天之鲸·只角",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/25/k2i5kp0uwb9momt9wedzut8sns68a0c.png/60px-%E5%90%9E%E5%A4%A9%E4%B9%8B%E9%B2%B8%C2%B7%E5%8F%AA%E8%A7%92.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/7/7c/eewy674lo37jwuq9qozyszhz8vo0d8j.png/60px-%E9%92%9F%E7%A6%BB%E5%A4%B4%E5%83%8F.png",
+    "name": "钟离",
+    "rarity": "5星",
+    "weapon": "长柄武器",
+    "element": "岩",
+    "max_health_points": "14695",
+    "max_attack": "251",
+    "max_defense": "738",
+    "breakout_increase": "岩元素伤害加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "坚牢黄玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1f/ktx2mtd48unswlqnmnq1ukc7dla5oic.png/60px-%E5%9D%9A%E7%89%A2%E9%BB%84%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "玄岩之塔",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/33/1n714bntt1r529t635svfpjuw9tcmeg.png/60px-%E7%8E%84%E5%B2%A9%E4%B9%8B%E5%A1%94.png"
+      },
+      {
+        "name": "石珀",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/08/fpwa8xb4wy8me23jlvlxpmfym9lp364.png/60px-%E7%9F%B3%E7%8F%80.png"
+      },
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      },
+      {
+        "name": "「黄金」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/2xsd09kxqbqa7oj0q8yxsun34tie4a8.png/60px-%E3%80%8C%E9%BB%84%E9%87%91%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "吞天之鲸·只角",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/25/k2i5kp0uwb9momt9wedzut8sns68a0c.png/60px-%E5%90%9E%E5%A4%A9%E4%B9%8B%E9%B2%B8%C2%B7%E5%8F%AA%E8%A7%92.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/ab/ssm5hres5t2jcnmqlmxvko87frukaaa.png/60px-%E8%BE%9B%E7%84%B1%E5%A4%B4%E5%83%8F.png",
+    "name": "辛焱",
+    "rarity": "4星",
+    "weapon": "双手剑",
+    "element": "火",
+    "max_health_points": "11201",
+    "max_attack": "249",
+    "max_defense": "799",
+    "breakout_increase": "攻击力加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "常燃火种",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1a/bmw5p8f4czdz7znbky7ta39nxl8dtsm.png/60px-%E5%B8%B8%E7%87%83%E7%81%AB%E7%A7%8D.png"
+      },
+      {
+        "name": "琉璃袋",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/44/8fyvd4mbs2l1avo508fht3t0qczuvoo.png/60px-%E7%90%89%E7%92%83%E8%A2%8B.png"
+      },
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      },
+      {
+        "name": "「黄金」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/2xsd09kxqbqa7oj0q8yxsun34tie4a8.png/60px-%E3%80%8C%E9%BB%84%E9%87%91%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "吞天之鲸·只角",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/25/k2i5kp0uwb9momt9wedzut8sns68a0c.png/60px-%E5%90%9E%E5%A4%A9%E4%B9%8B%E9%B2%B8%C2%B7%E5%8F%AA%E8%A7%92.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/8/8e/ebp74g68onexgkc2xsjuornx2j6bowp.png/60px-%E8%BF%AA%E5%A5%A5%E5%A8%9C%E5%A4%B4%E5%83%8F.png",
+    "name": "迪奥娜",
+    "rarity": "4星",
+    "weapon": "弓",
+    "element": "冰",
+    "max_health_points": "9570",
+    "max_attack": "212",
+    "max_defense": "601",
+    "breakout_increase": "冰元素伤害加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "极寒之核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/00/2vohu91nam4qbktljzvbj6hfi6ttnmn.png/60px-%E6%9E%81%E5%AF%92%E4%B9%8B%E6%A0%B8.png"
+      },
+      {
+        "name": "嘟嘟莲",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/07/l71iwwjmr543yg4fbdd137tx6lddtdw.png/60px-%E5%98%9F%E5%98%9F%E8%8E%B2.png"
+      },
+      {
+        "name": "牢固的箭簇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/61/ntk33iinzi59ecopm6qapb32ctvqbno.png/60px-%E7%89%A2%E5%9B%BA%E7%9A%84%E7%AE%AD%E7%B0%87.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "牢固的箭簇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/61/ntk33iinzi59ecopm6qapb32ctvqbno.png/60px-%E7%89%A2%E5%9B%BA%E7%9A%84%E7%AE%AD%E7%B0%87.png"
+      },
+      {
+        "name": "「自由」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/44/1sqwo81lurozcfbp8qphoa2penb07ar.png/60px-%E3%80%8C%E8%87%AA%E7%94%B1%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "魔王之刃·残片",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d5/9mzpoj6h565mm5tvaz54xae9visk7h3.png/60px-%E9%AD%94%E7%8E%8B%E4%B9%8B%E5%88%83%C2%B7%E6%AE%8B%E7%89%87.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/af/4v48u6t4v9mfnwmabch9ojskqa1x61a.png/60px-%E8%BE%BE%E8%BE%BE%E5%88%A9%E4%BA%9A%E5%A4%B4%E5%83%8F.png",
+    "name": "达达利亚",
+    "rarity": "5星",
+    "weapon": "弓",
+    "element": "水",
+    "max_health_points": "13103",
+    "max_attack": "301",
+    "max_defense": "815",
+    "breakout_increase": "水元素伤害加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "净水之心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a8/cyqnob1b2rjzez8o4bgabtoak64wh4c.png/60px-%E5%87%80%E6%B0%B4%E4%B9%8B%E5%BF%83.png"
+      },
+      {
+        "name": "星螺",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/53/42isaitty9g8baqenbn2ur1z8evrxgi.png/60px-%E6%98%9F%E8%9E%BA.png"
+      },
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      },
+      {
+        "name": "「自由」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/44/1sqwo81lurozcfbp8qphoa2penb07ar.png/60px-%E3%80%8C%E8%87%AA%E7%94%B1%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "魔王之刃·残片",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/d5/9mzpoj6h565mm5tvaz54xae9visk7h3.png/60px-%E9%AD%94%E7%8E%8B%E4%B9%8B%E5%88%83%C2%B7%E6%AE%8B%E7%89%87.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/b/b1/rlnhn26076peuvah42o85o2pha5m7am.png/60px-%E5%8F%AF%E8%8E%89%E5%A4%B4%E5%83%8F.png",
+    "name": "可莉",
+    "rarity": "5星",
+    "weapon": "法器",
+    "element": "火",
+    "max_health_points": "10287",
+    "max_attack": "311",
+    "max_defense": "615",
+    "breakout_increase": "火元素伤害加成28.8%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "常燃火种",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1a/bmw5p8f4czdz7znbky7ta39nxl8dtsm.png/60px-%E5%B8%B8%E7%87%83%E7%81%AB%E7%A7%8D.png"
+      },
+      {
+        "name": "慕风蘑菇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/8/88/l3dms7k54lx6du9vg1utbe1qqnnu3p4.png/60px-%E6%85%95%E9%A3%8E%E8%98%91%E8%8F%87.png"
+      },
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      },
+      {
+        "name": "「自由」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/44/1sqwo81lurozcfbp8qphoa2penb07ar.png/60px-%E3%80%8C%E8%87%AA%E7%94%B1%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风之环",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/e0/t8f1e6wcwp4e78csjk0ybzobxyuks59.png/60px-%E5%8C%97%E9%A3%8E%E4%B9%8B%E7%8E%AF.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/5/58/487eqx6pk6si5abhemvrdkyexskvvbg.png/60px-%E6%B8%A9%E8%BF%AA%E5%A4%B4%E5%83%8F.png",
+    "name": "温迪",
+    "rarity": "5星",
+    "weapon": "弓",
+    "element": "风",
+    "max_health_points": "10531",
+    "max_attack": "263",
+    "max_defense": "669",
+    "breakout_increase": "元素充能32%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "自在松石碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/55/a5jj1wipq1k46vqpu53zou84m645ck6.png/60px-%E8%87%AA%E5%9C%A8%E6%9D%BE%E7%9F%B3%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "飓风之种",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/13/awiweals6t7gjne2jx0z078uvyxoiv8.png/60px-%E9%A3%93%E9%A3%8E%E4%B9%8B%E7%A7%8D.png"
+      },
+      {
+        "name": "塞西莉亚花",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bf/c7i8kp8rq4m8ys380dx9cffxjbfx4qf.png/60px-%E5%A1%9E%E8%A5%BF%E8%8E%89%E4%BA%9A%E8%8A%B1.png"
+      },
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      },
+      {
+        "name": "「诗文」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4e/scd8f07njtgn4pjo3uppabwz5y0al12.png/60px-%E3%80%8C%E8%AF%97%E6%96%87%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风之尾",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a4/ain3ls8ix8o4cljr9gjm0ypjzzezj0n.png/60px-%E5%8C%97%E9%A3%8E%E4%B9%8B%E5%B0%BE.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/4/4f/nsllwey2yb8na9uab5vov22lo0zu1tf.png/60px-%E8%8A%AD%E8%8A%AD%E6%8B%89%E5%A4%B4%E5%83%8F.png",
+    "name": "芭芭拉",
+    "rarity": "4星",
+    "weapon": "法器",
+    "element": "水",
+    "max_health_points": "9787",
+    "max_attack": "159",
+    "max_defense": "669",
+    "breakout_increase": "生命值加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "净水之心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a8/cyqnob1b2rjzez8o4bgabtoak64wh4c.png/60px-%E5%87%80%E6%B0%B4%E4%B9%8B%E5%BF%83.png"
+      },
+      {
+        "name": "慕风蘑菇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/8/88/l3dms7k54lx6du9vg1utbe1qqnnu3p4.png/60px-%E6%85%95%E9%A3%8E%E8%98%91%E8%8F%87.png"
+      },
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      },
+      {
+        "name": "「自由」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/44/1sqwo81lurozcfbp8qphoa2penb07ar.png/60px-%E3%80%8C%E8%87%AA%E7%94%B1%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风之环",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/e0/t8f1e6wcwp4e78csjk0ybzobxyuks59.png/60px-%E5%8C%97%E9%A3%8E%E4%B9%8B%E7%8E%AF.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/8/8b/049fpv6jcr66mln0nmbbfgigfrkgrzo.png/60px-%E4%B8%83%E4%B8%83%E5%A4%B4%E5%83%8F.png",
+    "name": "七七",
+    "rarity": "5星",
+    "weapon": "单手剑",
+    "element": "冰",
+    "max_health_points": "12368",
+    "max_attack": "287",
+    "max_defense": "922",
+    "breakout_increase": "治疗加成22.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "极寒之核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/00/2vohu91nam4qbktljzvbj6hfi6ttnmn.png/60px-%E6%9E%81%E5%AF%92%E4%B9%8B%E6%A0%B8.png"
+      },
+      {
+        "name": "琉璃袋",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/44/8fyvd4mbs2l1avo508fht3t0qczuvoo.png/60px-%E7%90%89%E7%92%83%E8%A2%8B.png"
+      },
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "导能绘卷",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/df/ph1acs6bdt1vuefr7panmeqstwcfl9k.png/60px-%E5%AF%BC%E8%83%BD%E7%BB%98%E5%8D%B7.png"
+      },
+      {
+        "name": "「繁荣」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/9d/d8s3c0jmziudqwm8dktkloojqnvliga.png/60px-%E3%80%8C%E7%B9%81%E8%8D%A3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风之尾",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a4/ain3ls8ix8o4cljr9gjm0ypjzzezj0n.png/60px-%E5%8C%97%E9%A3%8E%E4%B9%8B%E5%B0%BE.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/c/cc/l5ae2erhaq8tn896a2yibndx5g7r5g5.png/60px-%E9%A6%99%E8%8F%B1%E5%A4%B4%E5%83%8F.png",
+    "name": "香菱",
+    "rarity": "4星",
+    "weapon": "长柄武器",
+    "element": "火",
+    "max_health_points": "10875",
+    "max_attack": "225",
+    "max_defense": "669",
+    "breakout_increase": "元素精通96",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "常燃火种",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1a/bmw5p8f4czdz7znbky7ta39nxl8dtsm.png/60px-%E5%B8%B8%E7%87%83%E7%81%AB%E7%A7%8D.png"
+      },
+      {
+        "name": "绝云椒椒",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/51/hu1n43dprups8bmdtm40pl9nhkycg2h.png/60px-%E7%BB%9D%E4%BA%91%E6%A4%92%E6%A4%92.png"
+      },
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      },
+      {
+        "name": "「勤劳」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bf/5smyx10d90l15aijbfaq37z67bx8bq7.png/60px-%E3%80%8C%E5%8B%A4%E5%8A%B3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "东风之爪",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/f6/f4q5m5796jz3vbdzdrd11ckfxvey3p4.png/60px-%E4%B8%9C%E9%A3%8E%E4%B9%8B%E7%88%AA.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/9/9a/7v8r50l2lx0fzc2tllu20e2v7y54zms.png/60px-%E5%8C%97%E6%96%97%E5%A4%B4%E5%83%8F.png",
+    "name": "北斗",
+    "rarity": "4星",
+    "weapon": "双手剑",
+    "element": "雷",
+    "max_health_points": "13050",
+    "max_attack": "225",
+    "max_defense": "648",
+    "breakout_increase": "雷元素伤害加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "雷光棱镜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/66/bbosxbk3v3dy2ge0r461uyil4ar9xso.png/60px-%E9%9B%B7%E5%85%89%E6%A3%B1%E9%95%9C.png"
+      },
+      {
+        "name": "夜泊石",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a4/jkou9q2vctetyllvil8wzbbvuk492o8.png/60px-%E5%A4%9C%E6%B3%8A%E7%9F%B3.png"
+      },
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      },
+      {
+        "name": "「黄金」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/2xsd09kxqbqa7oj0q8yxsun34tie4a8.png/60px-%E3%80%8C%E9%BB%84%E9%87%91%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "东风的吐息",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6c/7ywje7s8o7ayzdtc25psypni9z0n0vg.png/60px-%E4%B8%9C%E9%A3%8E%E7%9A%84%E5%90%90%E6%81%AF.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/a6/bz36kyv7jhk9p3sqk6g3r79a7t5aqa2.png/60px-%E8%A1%8C%E7%A7%8B%E5%A4%B4%E5%83%8F.png",
+    "name": "行秋",
+    "rarity": "4星",
+    "weapon": "单手剑",
+    "element": "水",
+    "max_health_points": "10222",
+    "max_attack": "202",
+    "max_defense": "758",
+    "breakout_increase": "攻击力加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "净水之心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a8/cyqnob1b2rjzez8o4bgabtoak64wh4c.png/60px-%E5%87%80%E6%B0%B4%E4%B9%8B%E5%BF%83.png"
+      },
+      {
+        "name": "霓裳花",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/66/8mcibf8n98zvl09d10urt5o7qij9vat.png/60px-%E9%9C%93%E8%A3%B3%E8%8A%B1.png"
+      },
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      },
+      {
+        "name": "「黄金」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/ef/2xsd09kxqbqa7oj0q8yxsun34tie4a8.png/60px-%E3%80%8C%E9%BB%84%E9%87%91%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风之尾",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a4/ain3ls8ix8o4cljr9gjm0ypjzzezj0n.png/60px-%E5%8C%97%E9%A3%8E%E4%B9%8B%E5%B0%BE.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/9/94/mkpw3ljc2eoea75lhkyccu6mbsbiqnr.png/60px-%E8%BF%AA%E5%8D%A2%E5%85%8B%E5%A4%B4%E5%83%8F.png",
+    "name": "迪卢克",
+    "rarity": "5星",
+    "weapon": "双手剑",
+    "element": "火",
+    "max_health_points": "12981",
+    "max_attack": "335",
+    "max_defense": "784",
+    "breakout_increase": "暴击率19.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "常燃火种",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1a/bmw5p8f4czdz7znbky7ta39nxl8dtsm.png/60px-%E5%B8%B8%E7%87%83%E7%81%AB%E7%A7%8D.png"
+      },
+      {
+        "name": "小灯草",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a3/l5pjsfz6fmr2dsybi7906a4rsgtssy3.png/60px-%E5%B0%8F%E7%81%AF%E8%8D%89.png"
+      },
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      },
+      {
+        "name": "「抗争」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/e63gxc1xlbuzoh2foi4nbuhpwwqv6lb.png/60px-%E3%80%8C%E6%8A%97%E4%BA%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "东风之翎",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/96/4c2jgiepvntmzly4l1806aw9x4kjvyr.png/60px-%E4%B8%9C%E9%A3%8E%E4%B9%8B%E7%BF%8E.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/6/6c/oo4earntw7se6jssxq5tjgsbyxrho79.png/60px-%E5%87%9D%E5%85%89%E5%A4%B4%E5%83%8F.png",
+    "name": "凝光",
+    "rarity": "4星",
+    "weapon": "法器",
+    "element": "岩",
+    "max_health_points": "9787",
+    "max_attack": "212",
+    "max_defense": "573",
+    "breakout_increase": "岩元素伤害加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "坚牢黄玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1f/ktx2mtd48unswlqnmnq1ukc7dla5oic.png/60px-%E5%9D%9A%E7%89%A2%E9%BB%84%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "玄岩之塔",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/33/1n714bntt1r529t635svfpjuw9tcmeg.png/60px-%E7%8E%84%E5%B2%A9%E4%B9%8B%E5%A1%94.png"
+      },
+      {
+        "name": "琉璃百合",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/8/86/18d06e0tiwyhsksyrj1xpr1v8alf078.png/60px-%E7%90%89%E7%92%83%E7%99%BE%E5%90%88.png"
+      },
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "新兵的徽记",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/64/5wpcu2ts47ljszf5mvcg4mqr8ec6sui.png/60px-%E6%96%B0%E5%85%B5%E7%9A%84%E5%BE%BD%E8%AE%B0.png"
+      },
+      {
+        "name": "「繁荣」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/9d/d8s3c0jmziudqwm8dktkloojqnvliga.png/60px-%E3%80%8C%E7%B9%81%E8%8D%A3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风的魂匣",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/8nittob80atxys7yp35t3fpnrrc6wi8.png/60px-%E5%8C%97%E9%A3%8E%E7%9A%84%E9%AD%82%E5%8C%A3.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/1/1a/g3cl4mrxow8af265n2ajqtnuf99pkfa.png/60px-%E7%90%B4%E5%A4%B4%E5%83%8F.png",
+    "name": "琴",
+    "rarity": "5星",
+    "weapon": "单手剑",
+    "element": "风",
+    "max_health_points": "14695",
+    "max_attack": "239",
+    "max_defense": "769",
+    "breakout_increase": "治疗加成22.2%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "自在松石碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/55/a5jj1wipq1k46vqpu53zou84m645ck6.png/60px-%E8%87%AA%E5%9C%A8%E6%9D%BE%E7%9F%B3%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "飓风之种",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/13/awiweals6t7gjne2jx0z078uvyxoiv8.png/60px-%E9%A3%93%E9%A3%8E%E4%B9%8B%E7%A7%8D.png"
+      },
+      {
+        "name": "蒲公英籽",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bc/92j6w389xrpflh1yjw3hvt7dcfeb7i5.png/60px-%E8%92%B2%E5%85%AC%E8%8B%B1%E7%B1%BD.png"
+      },
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      },
+      {
+        "name": "「抗争」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/e63gxc1xlbuzoh2foi4nbuhpwwqv6lb.png/60px-%E3%80%8C%E6%8A%97%E4%BA%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "东风之翎",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/96/4c2jgiepvntmzly4l1806aw9x4kjvyr.png/60px-%E4%B8%9C%E9%A3%8E%E4%B9%8B%E7%BF%8E.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/0/06/cmlxoc9sfz7nrwmt495351zcj1qd93e.png/60px-%E8%8F%B2%E8%B0%A2%E5%B0%94%E5%A4%B4%E5%83%8F.png",
+    "name": "菲谢尔",
+    "rarity": "4星",
+    "weapon": "弓",
+    "element": "雷",
+    "max_health_points": "9189",
+    "max_attack": "244",
+    "max_defense": "594",
+    "breakout_increase": "攻击力加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "雷光棱镜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/66/bbosxbk3v3dy2ge0r461uyil4ar9xso.png/60px-%E9%9B%B7%E5%85%89%E6%A3%B1%E9%95%9C.png"
+      },
+      {
+        "name": "小灯草",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a3/l5pjsfz6fmr2dsybi7906a4rsgtssy3.png/60px-%E5%B0%8F%E7%81%AF%E8%8D%89.png"
+      },
+      {
+        "name": "牢固的箭簇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/61/ntk33iinzi59ecopm6qapb32ctvqbno.png/60px-%E7%89%A2%E5%9B%BA%E7%9A%84%E7%AE%AD%E7%B0%87.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "牢固的箭簇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/61/ntk33iinzi59ecopm6qapb32ctvqbno.png/60px-%E7%89%A2%E5%9B%BA%E7%9A%84%E7%AE%AD%E7%B0%87.png"
+      },
+      {
+        "name": "「诗文」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4e/scd8f07njtgn4pjo3uppabwz5y0al12.png/60px-%E3%80%8C%E8%AF%97%E6%96%87%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风的魂匣",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/8nittob80atxys7yp35t3fpnrrc6wi8.png/60px-%E5%8C%97%E9%A3%8E%E7%9A%84%E9%AD%82%E5%8C%A3.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/4/4d/8bdo6ydvnfl23s7jx69dtp1cmoo3svm.png/60px-%E9%9B%B7%E6%B3%BD%E5%A4%B4%E5%83%8F.png",
+    "name": "雷泽",
+    "rarity": "4星",
+    "weapon": "双手剑",
+    "element": "雷",
+    "max_health_points": "11962",
+    "max_attack": "234",
+    "max_defense": "751",
+    "breakout_increase": "物理伤害加成30%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "雷光棱镜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/66/bbosxbk3v3dy2ge0r461uyil4ar9xso.png/60px-%E9%9B%B7%E5%85%89%E6%A3%B1%E9%95%9C.png"
+      },
+      {
+        "name": "钩钩果",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bd/nfjliiuj0e0qezkt4l36rltu2ayy3z2.png/60px-%E9%92%A9%E9%92%A9%E6%9E%9C.png"
+      },
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      },
+      {
+        "name": "「抗争」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/e63gxc1xlbuzoh2foi4nbuhpwwqv6lb.png/60px-%E3%80%8C%E6%8A%97%E4%BA%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "东风之爪",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/f6/f4q5m5796jz3vbdzdrd11ckfxvey3p4.png/60px-%E4%B8%9C%E9%A3%8E%E4%B9%8B%E7%88%AA.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/c/cc/rhbp5t3iyzpsk2dc34kv18yem0nlmzo.png/60px-%E7%A0%82%E7%B3%96%E5%A4%B4%E5%83%8F.png",
+    "name": "砂糖",
+    "rarity": "4星",
+    "weapon": "法器",
+    "element": "风",
+    "max_health_points": "9244",
+    "max_attack": "170",
+    "max_defense": "703",
+    "breakout_increase": "风元素伤害加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "自在松石碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/5/55/a5jj1wipq1k46vqpu53zou84m645ck6.png/60px-%E8%87%AA%E5%9C%A8%E6%9D%BE%E7%9F%B3%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "飓风之种",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/13/awiweals6t7gjne2jx0z078uvyxoiv8.png/60px-%E9%A3%93%E9%A3%8E%E4%B9%8B%E7%A7%8D.png"
+      },
+      {
+        "name": "风车菊",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/3b/3h8ztz8pyfy2jiqg7t4a2ynvgh030r4.png/60px-%E9%A3%8E%E8%BD%A6%E8%8F%8A.png"
+      },
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      },
+      {
+        "name": "「自由」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/44/1sqwo81lurozcfbp8qphoa2penb07ar.png/60px-%E3%80%8C%E8%87%AA%E7%94%B1%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风的魂匣",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/8nittob80atxys7yp35t3fpnrrc6wi8.png/60px-%E5%8C%97%E9%A3%8E%E7%9A%84%E9%AD%82%E5%8C%A3.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/a7/c1hp9a87kti1ywjv7c5470e3dn0wxio.png/60px-%E5%AE%89%E6%9F%8F%E5%A4%B4%E5%83%8F.png",
+    "name": "安柏",
+    "rarity": "4星",
+    "weapon": "弓",
+    "element": "火",
+    "max_health_points": "9461",
+    "max_attack": "223",
+    "max_defense": "601",
+    "breakout_increase": "攻击力加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "常燃火种",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1a/bmw5p8f4czdz7znbky7ta39nxl8dtsm.png/60px-%E5%B8%B8%E7%87%83%E7%81%AB%E7%A7%8D.png"
+      },
+      {
+        "name": "小灯草",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a3/l5pjsfz6fmr2dsybi7906a4rsgtssy3.png/60px-%E5%B0%8F%E7%81%AF%E8%8D%89.png"
+      },
+      {
+        "name": "牢固的箭簇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/61/ntk33iinzi59ecopm6qapb32ctvqbno.png/60px-%E7%89%A2%E5%9B%BA%E7%9A%84%E7%AE%AD%E7%B0%87.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "牢固的箭簇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/61/ntk33iinzi59ecopm6qapb32ctvqbno.png/60px-%E7%89%A2%E5%9B%BA%E7%9A%84%E7%AE%AD%E7%B0%87.png"
+      },
+      {
+        "name": "「自由」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/44/1sqwo81lurozcfbp8qphoa2penb07ar.png/60px-%E3%80%8C%E8%87%AA%E7%94%B1%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "东风的吐息",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6c/7ywje7s8o7ayzdtc25psypni9z0n0vg.png/60px-%E4%B8%9C%E9%A3%8E%E7%9A%84%E5%90%90%E6%81%AF.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/1/1e/q7e7j4ybveu9vpezgvjogwpmfzz1mm2.png/60px-%E8%AF%BA%E8%89%BE%E5%B0%94%E5%A4%B4%E5%83%8F.png",
+    "name": "诺艾尔",
+    "rarity": "4星",
+    "weapon": "双手剑",
+    "element": "岩",
+    "max_health_points": "12071",
+    "max_attack": "191",
+    "max_defense": "799",
+    "breakout_increase": "防御力加成30%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "坚牢黄玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1f/ktx2mtd48unswlqnmnq1ukc7dla5oic.png/60px-%E5%9D%9A%E7%89%A2%E9%BB%84%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "玄岩之塔",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/33/1n714bntt1r529t635svfpjuw9tcmeg.png/60px-%E7%8E%84%E5%B2%A9%E4%B9%8B%E5%A1%94.png"
+      },
+      {
+        "name": "落落莓",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/18/s7wq2fo25gt8ly7ovjdsi5587wqhdru.png/60px-%E8%90%BD%E8%90%BD%E8%8E%93.png"
+      },
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      },
+      {
+        "name": "「抗争」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/e63gxc1xlbuzoh2foi4nbuhpwwqv6lb.png/60px-%E3%80%8C%E6%8A%97%E4%BA%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "东风之爪",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/f6/f4q5m5796jz3vbdzdrd11ckfxvey3p4.png/60px-%E4%B8%9C%E9%A3%8E%E4%B9%8B%E7%88%AA.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/c/ce/refnobe859mskudq9i634djaniepwvt.png/60px-%E8%8E%AB%E5%A8%9C%E5%A4%B4%E5%83%8F.png",
+    "name": "莫娜",
+    "rarity": "5星",
+    "weapon": "法器",
+    "element": "水",
+    "max_health_points": "10409",
+    "max_attack": "287",
+    "max_defense": "653",
+    "breakout_increase": "元素充能32%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "涤净青金碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/da/mzd7dp5xnefro1ricssz29br12k74j2.png/60px-%E6%B6%A4%E5%87%80%E9%9D%92%E9%87%91%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "净水之心",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/a/a8/cyqnob1b2rjzez8o4bgabtoak64wh4c.png/60px-%E5%87%80%E6%B0%B4%E4%B9%8B%E5%BF%83.png"
+      },
+      {
+        "name": "慕风蘑菇",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/8/88/l3dms7k54lx6du9vg1utbe1qqnnu3p4.png/60px-%E6%85%95%E9%A3%8E%E8%98%91%E8%8F%87.png"
+      },
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      },
+      {
+        "name": "「抗争」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/e63gxc1xlbuzoh2foi4nbuhpwwqv6lb.png/60px-%E3%80%8C%E6%8A%97%E4%BA%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风之环",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/e0/t8f1e6wcwp4e78csjk0ybzobxyuks59.png/60px-%E5%8C%97%E9%A3%8E%E4%B9%8B%E7%8E%AF.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/6/69/t3g00dnjqa23jssp0lkuty27e9p1n7j.png/60px-%E4%B8%BD%E8%8E%8E%E5%A4%B4%E5%83%8F.png",
+    "name": "丽莎",
+    "rarity": "4星",
+    "weapon": "法器",
+    "element": "雷",
+    "max_health_points": "9570",
+    "max_attack": "232",
+    "max_defense": "573",
+    "breakout_increase": "元素精通96",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "雷光棱镜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/66/bbosxbk3v3dy2ge0r461uyil4ar9xso.png/60px-%E9%9B%B7%E5%85%89%E6%A3%B1%E9%95%9C.png"
+      },
+      {
+        "name": "落落莓",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/18/s7wq2fo25gt8ly7ovjdsi5587wqhdru.png/60px-%E8%90%BD%E8%90%BD%E8%8E%93.png"
+      },
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "史莱姆凝液",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b7/qplyoio0h7c0b3nd40jb44ufuce93yd.png/60px-%E5%8F%B2%E8%8E%B1%E5%A7%86%E5%87%9D%E6%B6%B2.png"
+      },
+      {
+        "name": "「诗文」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4e/scd8f07njtgn4pjo3uppabwz5y0al12.png/60px-%E3%80%8C%E8%AF%97%E6%96%87%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "东风之爪",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/f/f6/f4q5m5796jz3vbdzdrd11ckfxvey3p4.png/60px-%E4%B8%9C%E9%A3%8E%E4%B9%8B%E7%88%AA.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/a/a0/nd8jx8novy6974e5ez7bz9la04vajw8.png/60px-%E7%8F%AD%E5%B0%BC%E7%89%B9%E5%A4%B4%E5%83%8F.png",
+    "name": "班尼特",
+    "rarity": "4星",
+    "weapon": "单手剑",
+    "element": "火",
+    "max_health_points": "12397",
+    "max_attack": "191",
+    "max_defense": "771",
+    "breakout_increase": "元素充能26.7%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "燃愿玛瑙碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/d/dc/nmm6nuctrjet5fz6gs5cs3z4t7t6g3z.png/60px-%E7%87%83%E6%84%BF%E7%8E%9B%E7%91%99%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "常燃火种",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1a/bmw5p8f4czdz7znbky7ta39nxl8dtsm.png/60px-%E5%B8%B8%E7%87%83%E7%81%AB%E7%A7%8D.png"
+      },
+      {
+        "name": "风车菊",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/3/3b/3h8ztz8pyfy2jiqg7t4a2ynvgh030r4.png/60px-%E9%A3%8E%E8%BD%A6%E8%8F%8A.png"
+      },
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      },
+      {
+        "name": "「抗争」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/0f/e63gxc1xlbuzoh2foi4nbuhpwwqv6lb.png/60px-%E3%80%8C%E6%8A%97%E4%BA%89%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "东风之翎",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/96/4c2jgiepvntmzly4l1806aw9x4kjvyr.png/60px-%E4%B8%9C%E9%A3%8E%E4%B9%8B%E7%BF%8E.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/6/64/goj6bb8yj190midok60n2fbkk872090.png/60px-%E5%88%BB%E6%99%B4%E5%A4%B4%E5%83%8F.png",
+    "name": "刻晴",
+    "rarity": "5星",
+    "weapon": "单手剑",
+    "element": "雷",
+    "max_health_points": "13103",
+    "max_attack": "323",
+    "max_defense": "799",
+    "breakout_increase": "暴击伤害38.4%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "最胜紫晶碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/2/21/t9wzsrpvshlehrcts6q0fqaslqsd699.png/60px-%E6%9C%80%E8%83%9C%E7%B4%AB%E6%99%B6%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "雷光棱镜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/66/bbosxbk3v3dy2ge0r461uyil4ar9xso.png/60px-%E9%9B%B7%E5%85%89%E6%A3%B1%E9%95%9C.png"
+      },
+      {
+        "name": "石珀",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/08/fpwa8xb4wy8me23jlvlxpmfym9lp364.png/60px-%E7%9F%B3%E7%8F%80.png"
+      },
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "骗骗花蜜",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/1/1d/eo30uvs877828apebulmdalv8xo2eq0.png/60px-%E9%AA%97%E9%AA%97%E8%8A%B1%E8%9C%9C.png"
+      },
+      {
+        "name": "「繁荣」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/9/9d/d8s3c0jmziudqwm8dktkloojqnvliga.png/60px-%E3%80%8C%E7%B9%81%E8%8D%A3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风之环",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/e/e0/t8f1e6wcwp4e78csjk0ybzobxyuks59.png/60px-%E5%8C%97%E9%A3%8E%E4%B9%8B%E7%8E%AF.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/e/e5/knnismq9um424psahpu5vag0ysu3jab.png/60px-%E5%87%AF%E4%BA%9A%E5%A4%B4%E5%83%8F.png",
+    "name": "凯亚",
+    "rarity": "4星",
+    "weapon": "单手剑",
+    "element": "冰",
+    "max_health_points": "11636",
+    "max_attack": "223",
+    "max_defense": "792",
+    "breakout_increase": "元素充能26.7%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "极寒之核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/00/2vohu91nam4qbktljzvbj6hfi6ttnmn.png/60px-%E6%9E%81%E5%AF%92%E4%B9%8B%E6%A0%B8.png"
+      },
+      {
+        "name": "嘟嘟莲",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/07/l71iwwjmr543yg4fbdd137tx6lddtdw.png/60px-%E5%98%9F%E5%98%9F%E8%8E%B2.png"
+      },
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "寻宝鸦印",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/7a/jd5m6k2rezdszhymw9lsdgellz6llni.png/60px-%E5%AF%BB%E5%AE%9D%E9%B8%A6%E5%8D%B0.png"
+      },
+      {
+        "name": "「诗文」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/4/4e/scd8f07njtgn4pjo3uppabwz5y0al12.png/60px-%E3%80%8C%E8%AF%97%E6%96%87%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "北风的魂匣",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6a/8nittob80atxys7yp35t3fpnrrc6wi8.png/60px-%E5%8C%97%E9%A3%8E%E7%9A%84%E9%AD%82%E5%8C%A3.png"
+      }
+    ]
+  },
+  {
+    "photo": "https://patchwiki.biligame.com/images/ys/thumb/4/46/mpnu86qhgs99cbbt35kb09702aqp70i.png/60px-%E9%87%8D%E4%BA%91%E5%A4%B4%E5%83%8F.png",
+    "name": "重云",
+    "rarity": "4星",
+    "weapon": "双手剑",
+    "element": "冰",
+    "max_health_points": "10984",
+    "max_attack": "223",
+    "max_defense": "648",
+    "breakout_increase": "攻击力加成24%",
+    "materials_needed_for_breakthrough": [
+      {
+        "name": "哀叙冰玉碎屑",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/b8/bq3au4zjw9czzk3sq7idpw66eu037c9.png/60px-%E5%93%80%E5%8F%99%E5%86%B0%E7%8E%89%E7%A2%8E%E5%B1%91.png"
+      },
+      {
+        "name": "极寒之核",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/00/2vohu91nam4qbktljzvbj6hfi6ttnmn.png/60px-%E6%9E%81%E5%AF%92%E4%B9%8B%E6%A0%B8.png"
+      },
+      {
+        "name": "石珀",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/0/08/fpwa8xb4wy8me23jlvlxpmfym9lp364.png/60px-%E7%9F%B3%E7%8F%80.png"
+      },
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      }
+    ],
+    "materials_needed_for_talent": [
+      {
+        "name": "破损的面具",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/7/72/jjkj7mj1dsmhjdr4p5zk3a8rq1hpdsu.png/60px-%E7%A0%B4%E6%8D%9F%E7%9A%84%E9%9D%A2%E5%85%B7.png"
+      },
+      {
+        "name": "「勤劳」的教导",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/b/bf/5smyx10d90l15aijbfaq37z67bx8bq7.png/60px-%E3%80%8C%E5%8B%A4%E5%8A%B3%E3%80%8D%E7%9A%84%E6%95%99%E5%AF%BC.png.jpeg"
+      },
+      {
+        "name": "东风的吐息",
+        "image": "https://patchwiki.biligame.com/images/ys/thumb/6/6c/7ywje7s8o7ayzdtc25psypni9z0n0vg.png/60px-%E4%B8%9C%E9%A3%8E%E7%9A%84%E5%90%90%E6%81%AF.png"
+      }
+    ]
+  }
+]
