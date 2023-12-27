@@ -274,6 +274,6 @@ if __name__ == "__main__":
 
     import sys
 
-    logger.add(sys.stdout, level="INFO")
+    logger.add(sys.stdout, level=os.environ.get("LOG_LEVEL", "INFO"))
 
     asyncio.run(main())
