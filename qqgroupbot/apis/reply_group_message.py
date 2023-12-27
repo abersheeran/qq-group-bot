@@ -1,3 +1,5 @@
+from functools import reduce
+import re
 from loguru import logger
 
 from ..core import BotClient
@@ -42,8 +44,24 @@ async def _reply_group_message(
     if not resp.is_success:
         logger.warning(f"Failed to send message: {resp.text}")
     else:
-        logger.debug(f"Sent message response: {resp.json()}")
-        return resp.json().get("msg") == "success"
+        response_json = resp.json()
+        logger.debug(f"Sent message response: {response_json}")
+        res = response_json.get("msg") == "success"
+        if res:
+            return res
+        matched = re.match(r"url not allowed:(?P<urls>.+)", response_json.get("msg"))
+        if not matched:
+            return res
+        urls = matched.group("urls").split(",")
+        logger.warning(f"Url not allowed: {urls}")
+        return await _reply_group_message(
+            group_openid=group_openid,
+            message_id=message_id,
+            content=reduce(
+                lambda c, u: c.replace(u, u.replace(".", " .")), urls, content
+            ),
+            image_url=image_url,
+        )
 
 
 async def reply_group_message(
