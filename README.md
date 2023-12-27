@@ -4,23 +4,24 @@ QQ 群聊机器人
 
 ## 使用
 
-到 [QQ 开放平台](https://q.qq.com) 申请企业账号后，创建一个机器人，获取机器人 ID 和令牌。填入 `docker-compose.yml` 对应的位置。
+到 [QQ 开放平台](https://q.qq.com) 申请企业账号后，创建一个机器人，获取机器人 ID 和令牌。在 `docker-compose.yml` 同级目录下创建 `.env` 文件，内容如下：
+
+```env
+BOT_ID=123456789
+BOT_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
 
 使用 `docker-compose up --build -d` 启动。
 
 ### Gemini
 
-内置 Gemini-Pro 接口支持，自行申请 KEY 并填入 `docker-compose.yml` 对应的位置。
+内置 Gemini-Pro 接口支持，自行申请 KEY 并在 `.env` 中新增一行 `GEMINI_PRO_KEY=xxxxxx`。
 
-如果你需要使用 Gemini 代理服务，在 `docker-compose.yml` 中做如下修改：
+如果你需要使用 Gemini 代理服务，在 `.env` 中添加：
 
 ```yml
-version: "3"
-services:
-  wss:
-    environment:
-      - GEMINI_PRO_URL=https://gemini.proxy/v1beta/models/gemini-pro:generateContent
-      - GEMINI_PRO_VISION_URL=https://gemini.proxy/v1beta/models/gemini-pro-vision:generateContent
+GEMINI_PRO_URL=https://gemini.proxy/v1beta/models/gemini-pro:generateContent
+GEMINI_PRO_VISION_URL=https://gemini.proxy/v1beta/models/gemini-pro-vision:generateContent
 ```
 
 ## 二次开发

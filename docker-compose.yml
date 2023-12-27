@@ -7,9 +7,8 @@ services:
     restart: always
     environment:
       - MONGODB_URI=mongodb://mongodb:27017
-      - BOT_ID=
-      - BOT_TOKEN=
-      - GEMINI_PRO_KEY=
+    env_file:
+      - .env
   mongodb:
     image: mongo
     restart: always
