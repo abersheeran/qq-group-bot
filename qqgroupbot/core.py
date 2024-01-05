@@ -19,7 +19,7 @@ async def initial_openapi_client(bot_url: str, authorization: str):
     https://bot.q.qq.com/wiki/develop/api/#%E7%A5%A8%E6%8D%AE
     """
     async with httpx.AsyncClient(
-        base_url=bot_url, headers={"Authorization": authorization}
+        base_url=bot_url, headers={"Authorization": authorization}, timeout=60
     ) as client:
         token = BotClient.set(client)
         try:
