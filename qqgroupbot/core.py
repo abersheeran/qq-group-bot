@@ -102,7 +102,9 @@ async def wss_connect(
             nonlocal seq, stop
 
             while True:
-                data = await websocket.recv()
+                data = await websocket.read_message()
+                if data is None:
+                    break
                 assert isinstance(data, str)
                 event: Event = json.loads(data)
                 if (s := event.get("s")) is not None:
