@@ -19,9 +19,17 @@ BOT_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 如果你需要使用 Gemini 代理服务，在 `.env` 中添加：
 
-```yml
+```env
 GEMINI_PRO_URL=https://gemini.proxy/v1beta/models/gemini-pro:generateContent
 GEMINI_PRO_VISION_URL=https://gemini.proxy/v1beta/models/gemini-pro-vision:generateContent
+```
+
+## Bing Image Creator
+
+内置 Bing Image Creator 接口支持，根据 [BingImageCreator](https://github.com/abersheeran/BingImageCreator) 使用说明添加环境变量。
+
+```env
+BING_COOKIES="xxxxxxxxxxxxxxxxx"
 ```
 
 ## 二次开发

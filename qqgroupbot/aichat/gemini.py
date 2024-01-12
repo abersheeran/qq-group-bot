@@ -68,7 +68,16 @@ class Content(TypedDict):
     role: NotRequired[Literal["user", "model"]]
 
 
-async def generate_content(contents: list[Content]) -> str:
+async def generate_content(
+    contents: list[Content],
+    *,
+    safety_threshold: Literal[
+        "BLOCK_NONE",
+        "BLOCK_ONLY_HIGH",
+        "BLOCK_MEDIUM_AND_ABOVE",
+        "BLOCK_LOW_AND_ABOVE",
+    ] = "BLOCK_NONE",
+) -> str:
     client = GeminiClient.get()
 
     use_vision = False

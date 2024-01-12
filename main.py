@@ -2,11 +2,13 @@ import asyncio
 import base64
 import datetime
 import os
+import random
 from typing import Any
 import httpx
 
 from loguru import logger
 from motor.motor_asyncio import AsyncIOMotorClient
+from bingimagecreator import ImageGen, GenerateImagePromptException
 
 from qqgroupbot.core import Event, initial_openapi_client, fetch_events, get_gateway_url
 from qqgroupbot.apis.reply_group_message import reply_group_message
@@ -32,10 +34,20 @@ GEMINI_PRO_KEY = os.environ["GEMINI_PRO_KEY"]
 GEMINI_PRO_URL = os.environ.get("GEMINI_PRO_URL")
 GEMINI_PRO_VISION_URL = os.environ.get("GEMINI_PRO_VISION_URL")
 
+BING_COOKIES = os.environ["BING_COOKIES"]
+
 
 async def download_image(url: str) -> str:
     async with httpx.AsyncClient() as client:
         return base64.b64encode(await (await client.get(url)).aread()).decode()
+
+
+async def generate_image(prompt: str) -> str:
+    async with ImageGen(BING_COOKIES) as g:
+        links = await g.get_images(prompt)
+        logger.debug(f"Generated images: {links}")
+        # QQ 只能发 1 张图
+        return str(g.session._merge_url(random.choice(links)))
 
 
 client = AsyncIOMotorClient(os.environ.get("MONGODB_URI", "mongodb://localhost:27017"))
@@ -85,6 +97,73 @@ class Commands(CommandMatcher):
             message_id=message_id,
             content="数据库正常。" + more_content,
         )
+
+    @command("画图")
+    async def draw(
+        self,
+        prompt: str,
+        /,
+        *,
+        group_openid: str,
+        message_id: str,
+        event: Event,
+        **_: Any,
+    ) -> None:
+        if not prompt:
+            await reply_group_message(
+                group_openid=group_openid,
+                message_id=message_id,
+                content="你要我画什么呢？",
+            )
+            return
+
+        parts: list[Any] = [
+            {
+                "text": "Please generate accurate and detailed prompt for DALL-E based on the prompt words I gave. You only need to give me the prompt and do not give any additional content. I'll give you a big tip: "
+                + prompt
+            }
+        ]
+        for attachment in event.get("d", {}).get("attachments", []):
+            content_type = attachment["content_type"]
+            url = attachment["url"]
+            if is_supported_mime_type(content_type):
+                image_base64 = await download_image(url)
+                parts.append(
+                    {
+                        "inline_data": {
+                            "mime_type": content_type,
+                            "data": image_base64,
+                        }
+                    }
+                )
+        try:
+            image_url = await generate_image(
+                await generate_content(
+                    [{"parts": parts}], safety_threshold="BLOCK_LOW_AND_ABOVE"
+                )
+            )
+        except (GenerateImagePromptException, GenerateSafeError):
+            await reply_group_message(
+                group_openid=group_openid,
+                message_id=message_id,
+                content="这个不可以画哦。",
+            )
+            return
+        except BaseException:
+            logger.exception("Failed to generate image")
+            await reply_group_message(
+                group_openid=group_openid,
+                message_id=message_id,
+                content="哎呀，颜料桶打翻了。",
+            )
+            return
+        else:
+            await reply_group_message(
+                group_openid=group_openid,
+                message_id=message_id,
+                content="这是你要的画",
+                image_url=image_url,
+            )
 
     @command("连续对话")
     async def start_conversation(

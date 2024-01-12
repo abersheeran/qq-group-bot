@@ -53,6 +53,7 @@ async def wss_connect(
 
     async with websockets.connect(wss_url) as websocket:
         data = await websocket.recv()
+        logger.debug(f"Receive: {data}")
         event = json.loads(data)
         heartbeat_interval = event["d"]["heartbeat_interval"]
         if resume is None:
@@ -68,6 +69,7 @@ async def wss_connect(
                     },
                 }
             )
+            logger.debug(f"Send: {data}")
             await websocket.send(data)
             data = await websocket.recv()
             event = json.loads(data)
@@ -89,6 +91,7 @@ async def wss_connect(
                     },
                 }
             )
+            logger.debug(f"Send: {data}")
             await websocket.send(data)
 
         stop = False
@@ -96,15 +99,15 @@ async def wss_connect(
         async def heartbeat():
             while True:
                 await websocket.send(json.dumps({"op": 1, "d": seq}))
+                logger.debug(f"Heartbeat: {seq}")
                 await asyncio.sleep(heartbeat_interval / 1000)
 
         async def fetch_event():
             nonlocal seq, stop
 
             while True:
-                data = await websocket.read_message()
-                if data is None:
-                    break
+                data = await websocket.recv()
+                logger.debug(f"Receive: {data}")
                 assert isinstance(data, str)
                 event: Event = json.loads(data)
                 if (s := event.get("s")) is not None:

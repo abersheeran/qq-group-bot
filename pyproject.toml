@@ -12,6 +12,7 @@ dependencies = [
     "motor>=3.3.2",
     "beautifulsoup4>=4.12.2",
     "cool>=0.4.0",
+    "BingImageCreator @ git+https://github.com/abersheeran/BingImageCreator.git",
 ]
 requires-python = ">=3.12.0"
 readme = "README.md"
