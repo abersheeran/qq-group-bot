@@ -76,7 +76,7 @@ async def wss_connect(
             if event.get("t") != "READY":
                 logger.warning(f"Unexpected event: {event}")
                 return
-            seq = None
+            seq = event.get("s")
             session_id = event["d"]["session_id"]
         else:
             logger.info(f"Resume: {resume}")
