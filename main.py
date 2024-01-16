@@ -313,9 +313,19 @@ async def group_at_message_create(event: Event):
     group_openid = event["d"]["group_openid"]
     content = event["d"]["content"]
     message_id = event["d"]["id"]
-    await Commands(
-        content, group_openid=group_openid, message_id=message_id, event=event
-    )
+    try:
+        await asyncio.wait_for(
+            Commands(
+                content, group_openid=group_openid, message_id=message_id, event=event
+            ),
+            5 * 60 - 5,  # 5 minutes
+        )
+    except asyncio.TimeoutError:
+        await reply_group_message(
+            group_openid=group_openid,
+            message_id=message_id,
+            content="哎呀，派蒙思考太久了。",
+        )
 
 
 async def main():
