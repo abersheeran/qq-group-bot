@@ -149,7 +149,7 @@ class Commands(CommandMatcher):
                 content="这个不可以画哦。",
             )
             return
-        except BaseException:
+        except Exception:
             logger.exception("Failed to generate image")
             await reply_group_message(
                 group_openid=group_openid,
