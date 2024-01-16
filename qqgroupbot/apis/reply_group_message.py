@@ -54,7 +54,7 @@ async def _reply_group_message(
     else:
         response_json = resp.json()
         logger.debug(f"Sent message response: {response_json}")
-        res = response_json.get("msg") == "success"
+        res = response_json.get("msg") is None or response_json.get("msg") == "success"
         if res:
             return res
         matched = re.match(r"url not allowed:(?P<urls>.+)", response_json.get("msg"))
