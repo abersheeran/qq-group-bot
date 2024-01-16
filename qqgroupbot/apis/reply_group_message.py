@@ -22,14 +22,22 @@ async def _reply_group_message(
             json={"file_type": 1, "url": image_url, "srv_send_msg": False},
         )
         upload_res = resp.json()
-        file_info = upload_res["file_info"]
-
-        request_json = {
-            "msg_type": 7,
-            "content": content,
-            "msg_id": message_id,
-            "media": {"file_info": file_info},
-        }
+        try:
+            file_info = upload_res["file_info"]
+        except KeyError:
+            logger.warning(f"Failed to upload image: {resp.status_code} {upload_res}")
+            request_json = {
+                "msg_type": 0,
+                "content": f"图片上传失败, 请访问 {image_url.replace('.', ' .')} 查看图片",
+                "msg_id": message_id,
+            }
+        else:
+            request_json = {
+                "msg_type": 7,
+                "content": content,
+                "msg_id": message_id,
+                "media": {"file_info": file_info},
+            }
     else:
         request_json = {
             "msg_type": 0,
