@@ -28,7 +28,7 @@ async def _reply_group_message(
             logger.warning(f"Failed to upload image: {resp.status_code} {upload_res}")
             request_json = {
                 "msg_type": 0,
-                "content": f"图片上传失败, 请访问 {image_url.replace('.', ' .')} 查看图片",
+                "content": f"图片上传失败, 请访问 {image_url.replace('.', '%2E')} 查看图片",
                 "msg_id": message_id,
             }
         else:
