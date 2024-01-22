@@ -126,6 +126,13 @@ async def wss_connect(
         heartbeat_task = asyncio.create_task(heartbeat())
         fetch_event_task = asyncio.create_task(fetch_event())
 
+        def set_stop():
+            nonlocal stop
+            stop = True
+
+        heartbeat_task.add_done_callback(lambda f: set_stop() or f.result())
+        fetch_event_task.add_done_callback(lambda f: set_stop() or f.result())
+
         try:
             while not stop or not queue.empty():
                 try:
