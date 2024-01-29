@@ -149,6 +149,20 @@ class Commands(CommandMatcher):
                 content="这个不可以画哦。",
             )
             return
+        except GenerateNetworkError as error:
+            await reply_group_message(
+                group_openid=group_openid,
+                message_id=message_id,
+                content="怎么办？怎么办？派蒙连接不上提瓦特了。",
+            )
+            logger.warning(f"Network error: {error}")
+            return
+        except GenerateResponseError as error:
+            await reply_group_message(
+                group_openid=group_openid,
+                message_id=message_id,
+                content=str(error),
+            )
         except Exception:
             logger.exception("Failed to generate image")
             await reply_group_message(
