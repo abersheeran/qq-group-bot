@@ -165,6 +165,34 @@ class Commands(CommandMatcher):
                 image_url=image_url,
             )
 
+    @command("Bing cookies")
+    async def bing_cookies(
+        self,
+        content: str,
+        /,
+        *,
+        group_openid: str,
+        message_id: str,
+        **_: Any,
+    ) -> None:
+        global BING_COOKIES
+
+        if not content:
+            await reply_group_message(
+                group_openid=group_openid,
+                message_id=message_id,
+                content=BING_COOKIES,
+            )
+            return
+
+        BING_COOKIES = content.strip()
+
+        await reply_group_message(
+            group_openid=group_openid,
+            message_id=message_id,
+            content="好的，已经更新了。",
+        )
+
     @command("连续对话")
     async def start_conversation(
         self,
