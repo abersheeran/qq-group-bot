@@ -368,7 +368,7 @@ async def main():
         async for event in fetch_events(
             await get_gateway_url(BOT_URL, AUTHORIZATION),
             authorization=AUTHORIZATION,
-            intents=0 | (1 << 0) | (1 << 1) | (1 << 12) | (1 << 30),
+            intents=0 | (1 << 0) | (1 << 1) | (1 << 12) | (1 << 25) | (1 << 30),
         ):
             op = event["op"]
             if op != 0:
