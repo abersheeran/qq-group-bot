@@ -137,11 +137,10 @@ class Commands(CommandMatcher):
                     }
                 )
         try:
-            image_url = await generate_image(
-                await generate_content(
-                    [{"parts": parts}], safety_threshold="BLOCK_LOW_AND_ABOVE"
-                )
+            image_prompt = await generate_content(
+                [{"parts": parts}], safety_threshold="BLOCK_LOW_AND_ABOVE"
             )
+            image_url = await generate_image(image_prompt)
         except (GenerateImagePromptException, GenerateSafeError):
             await reply_group_message(
                 group_openid=group_openid,
@@ -175,7 +174,7 @@ class Commands(CommandMatcher):
             await reply_group_message(
                 group_openid=group_openid,
                 message_id=message_id,
-                content="这是你要的画",
+                content=f"这是你要的画。使用了“{image_prompt}”",
                 image_url=image_url,
             )
 
