@@ -314,13 +314,15 @@ class Commands(CommandMatcher):
             update_result = await collection_multi_turn_conversations.update_one(
                 {"group_openid": group_openid},
                 {
-                    "$push": {
+                    "$concatArrays": {
                         "contents": [
-                            {"role": "user", "parts": parts},
-                            {
-                                "role": "model",
-                                "parts": [{"text": response_content}],
-                            },
+                            contents,
+                            [
+                                {
+                                    "role": "model",
+                                    "parts": [{"text": response_content}],
+                                },
+                            ],
                         ]
                     }
                 },
