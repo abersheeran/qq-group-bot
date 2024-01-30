@@ -79,17 +79,21 @@ async def reply_group_message(
     content: str,
     image_url: str | None = None,
 ) -> None:
-    if (
-        await _reply_group_message(
-            group_openid=group_openid,
-            message_id=message_id,
-            content=content,
-            image_url=image_url,
-        )
-        is False
+    match await _reply_group_message(
+        group_openid=group_openid,
+        message_id=message_id,
+        content=content,
+        image_url=image_url,
     ):
-        await _reply_group_message(
-            group_openid=group_openid,
-            message_id=message_id,
-            content="腾讯不让我发这条消息, 我们换个话题吧。",
-        )
+        case False:
+            await _reply_group_message(
+                group_openid=group_openid,
+                message_id=message_id,
+                content="腾讯不让我发这条消息, 我们换个话题吧。",
+            )
+        case None:
+            await _reply_group_message(
+                group_openid=group_openid,
+                message_id=message_id,
+                content="不利于团结的话不要讲！",
+            )
