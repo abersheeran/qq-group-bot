@@ -34,7 +34,7 @@ GEMINI_PRO_KEY = os.environ["GEMINI_PRO_KEY"]
 GEMINI_PRO_URL = os.environ.get("GEMINI_PRO_URL")
 GEMINI_PRO_VISION_URL = os.environ.get("GEMINI_PRO_VISION_URL")
 
-BING_COOKIES = os.environ["BING_COOKIES"]
+BING_COOKIES = os.environ.get("BING_COOKIES", "")
 
 
 async def download_image(url: str) -> str:
